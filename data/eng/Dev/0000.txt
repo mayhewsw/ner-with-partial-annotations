@@ -1,0 +1,5633 @@
+{
+  "corpusId": "",
+  "id": "0000.txt",
+  "text": "CRICKET - LEICESTERSHIRE TAKE OVER AT TOP AFTER INNINGS VICTORY . LONDON 1996-08-30 West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship . Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire . After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 . Trailing by 213 , Somerset got a solid start to their second innings before Simmons stepped in to bundle them out for 174 . Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley . Hussain , considered surplus to England \u0027s one-day requirements , struck 158 , his first championship century of the season , as Essex reached 372 and took a first innings lead of 82 . By the close Yorkshire had turned that into a 37-run advantage but off-spinner Such had scuttled their hopes , taking four for 24 in 48 balls and leaving them hanging on 119 for five and praying for rain . At the Oval , Surrey captain Chris Lewis , another man dumped by England , continued to silence his critics as he followed his four for 45 on Thursday with 80 not out on Friday in the match against Warwickshire . He was well backed by England hopeful Mark Butcher who made 70 as Surrey closed on 429 for seven , a lead of 234 . Derbyshire kept up the hunt for their first championship title since 1936 by reducing Worcestershire to 133 for five in their second innings , still 100 runs away from avoiding an innings defeat . Australian Tom Moody took six for 82 but Chris Adams , 123 , and Tim O\u0027Gorman , 109 , took Derbyshire to 471 and a first innings lead of 233 . After the frustration of seeing the opening day of their match badly affected by the weather , Kent stepped up a gear to dismiss Nottinghamshire for 214 . They were held up by a gritty 84 from Paul Johnson but ex-England fast bowler Martin McCague took four for 55 . By stumps Kent had reached 108 for three .\n",
+  "tokens": [
+    "CRICKET",
+    "-",
+    "LEICESTERSHIRE",
+    "TAKE",
+    "OVER",
+    "AT",
+    "TOP",
+    "AFTER",
+    "INNINGS",
+    "VICTORY",
+    ".",
+    "LONDON",
+    "1996-08-30",
+    "West",
+    "Indian",
+    "all-rounder",
+    "Phil",
+    "Simmons",
+    "took",
+    "four",
+    "for",
+    "38",
+    "on",
+    "Friday",
+    "as",
+    "Leicestershire",
+    "beat",
+    "Somerset",
+    "by",
+    "an",
+    "innings",
+    "and",
+    "39",
+    "runs",
+    "in",
+    "two",
+    "days",
+    "to",
+    "take",
+    "over",
+    "at",
+    "the",
+    "head",
+    "of",
+    "the",
+    "county",
+    "championship",
+    ".",
+    "Their",
+    "stay",
+    "on",
+    "top",
+    ",",
+    "though",
+    ",",
+    "may",
+    "be",
+    "short-lived",
+    "as",
+    "title",
+    "rivals",
+    "Essex",
+    ",",
+    "Derbyshire",
+    "and",
+    "Surrey",
+    "all",
+    "closed",
+    "in",
+    "on",
+    "victory",
+    "while",
+    "Kent",
+    "made",
+    "up",
+    "for",
+    "lost",
+    "time",
+    "in",
+    "their",
+    "rain-affected",
+    "match",
+    "against",
+    "Nottinghamshire",
+    ".",
+    "After",
+    "bowling",
+    "Somerset",
+    "out",
+    "for",
+    "83",
+    "on",
+    "the",
+    "opening",
+    "morning",
+    "at",
+    "Grace",
+    "Road",
+    ",",
+    "Leicestershire",
+    "extended",
+    "their",
+    "first",
+    "innings",
+    "by",
+    "94",
+    "runs",
+    "before",
+    "being",
+    "bowled",
+    "out",
+    "for",
+    "296",
+    "with",
+    "England",
+    "discard",
+    "Andy",
+    "Caddick",
+    "taking",
+    "three",
+    "for",
+    "83",
+    ".",
+    "Trailing",
+    "by",
+    "213",
+    ",",
+    "Somerset",
+    "got",
+    "a",
+    "solid",
+    "start",
+    "to",
+    "their",
+    "second",
+    "innings",
+    "before",
+    "Simmons",
+    "stepped",
+    "in",
+    "to",
+    "bundle",
+    "them",
+    "out",
+    "for",
+    "174",
+    ".",
+    "Essex",
+    ",",
+    "however",
+    ",",
+    "look",
+    "certain",
+    "to",
+    "regain",
+    "their",
+    "top",
+    "spot",
+    "after",
+    "Nasser",
+    "Hussain",
+    "and",
+    "Peter",
+    "Such",
+    "gave",
+    "them",
+    "a",
+    "firm",
+    "grip",
+    "on",
+    "their",
+    "match",
+    "against",
+    "Yorkshire",
+    "at",
+    "Headingley",
+    ".",
+    "Hussain",
+    ",",
+    "considered",
+    "surplus",
+    "to",
+    "England",
+    "\u0027s",
+    "one-day",
+    "requirements",
+    ",",
+    "struck",
+    "158",
+    ",",
+    "his",
+    "first",
+    "championship",
+    "century",
+    "of",
+    "the",
+    "season",
+    ",",
+    "as",
+    "Essex",
+    "reached",
+    "372",
+    "and",
+    "took",
+    "a",
+    "first",
+    "innings",
+    "lead",
+    "of",
+    "82",
+    ".",
+    "By",
+    "the",
+    "close",
+    "Yorkshire",
+    "had",
+    "turned",
+    "that",
+    "into",
+    "a",
+    "37-run",
+    "advantage",
+    "but",
+    "off-spinner",
+    "Such",
+    "had",
+    "scuttled",
+    "their",
+    "hopes",
+    ",",
+    "taking",
+    "four",
+    "for",
+    "24",
+    "in",
+    "48",
+    "balls",
+    "and",
+    "leaving",
+    "them",
+    "hanging",
+    "on",
+    "119",
+    "for",
+    "five",
+    "and",
+    "praying",
+    "for",
+    "rain",
+    ".",
+    "At",
+    "the",
+    "Oval",
+    ",",
+    "Surrey",
+    "captain",
+    "Chris",
+    "Lewis",
+    ",",
+    "another",
+    "man",
+    "dumped",
+    "by",
+    "England",
+    ",",
+    "continued",
+    "to",
+    "silence",
+    "his",
+    "critics",
+    "as",
+    "he",
+    "followed",
+    "his",
+    "four",
+    "for",
+    "45",
+    "on",
+    "Thursday",
+    "with",
+    "80",
+    "not",
+    "out",
+    "on",
+    "Friday",
+    "in",
+    "the",
+    "match",
+    "against",
+    "Warwickshire",
+    ".",
+    "He",
+    "was",
+    "well",
+    "backed",
+    "by",
+    "England",
+    "hopeful",
+    "Mark",
+    "Butcher",
+    "who",
+    "made",
+    "70",
+    "as",
+    "Surrey",
+    "closed",
+    "on",
+    "429",
+    "for",
+    "seven",
+    ",",
+    "a",
+    "lead",
+    "of",
+    "234",
+    ".",
+    "Derbyshire",
+    "kept",
+    "up",
+    "the",
+    "hunt",
+    "for",
+    "their",
+    "first",
+    "championship",
+    "title",
+    "since",
+    "1936",
+    "by",
+    "reducing",
+    "Worcestershire",
+    "to",
+    "133",
+    "for",
+    "five",
+    "in",
+    "their",
+    "second",
+    "innings",
+    ",",
+    "still",
+    "100",
+    "runs",
+    "away",
+    "from",
+    "avoiding",
+    "an",
+    "innings",
+    "defeat",
+    ".",
+    "Australian",
+    "Tom",
+    "Moody",
+    "took",
+    "six",
+    "for",
+    "82",
+    "but",
+    "Chris",
+    "Adams",
+    ",",
+    "123",
+    ",",
+    "and",
+    "Tim",
+    "O\u0027Gorman",
+    ",",
+    "109",
+    ",",
+    "took",
+    "Derbyshire",
+    "to",
+    "471",
+    "and",
+    "a",
+    "first",
+    "innings",
+    "lead",
+    "of",
+    "233",
+    ".",
+    "After",
+    "the",
+    "frustration",
+    "of",
+    "seeing",
+    "the",
+    "opening",
+    "day",
+    "of",
+    "their",
+    "match",
+    "badly",
+    "affected",
+    "by",
+    "the",
+    "weather",
+    ",",
+    "Kent",
+    "stepped",
+    "up",
+    "a",
+    "gear",
+    "to",
+    "dismiss",
+    "Nottinghamshire",
+    "for",
+    "214",
+    ".",
+    "They",
+    "were",
+    "held",
+    "up",
+    "by",
+    "a",
+    "gritty",
+    "84",
+    "from",
+    "Paul",
+    "Johnson",
+    "but",
+    "ex-England",
+    "fast",
+    "bowler",
+    "Martin",
+    "McCague",
+    "took",
+    "four",
+    "for",
+    "55",
+    ".",
+    "By",
+    "stumps",
+    "Kent",
+    "had",
+    "reached",
+    "108",
+    "for",
+    "three",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "CRICKET",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "-",
+      "startCharOffset": 8,
+      "endCharOffset": 9
+    },
+    {
+      "form": "LEICESTERSHIRE",
+      "startCharOffset": 10,
+      "endCharOffset": 24
+    },
+    {
+      "form": "TAKE",
+      "startCharOffset": 25,
+      "endCharOffset": 29
+    },
+    {
+      "form": "OVER",
+      "startCharOffset": 30,
+      "endCharOffset": 34
+    },
+    {
+      "form": "AT",
+      "startCharOffset": 35,
+      "endCharOffset": 37
+    },
+    {
+      "form": "TOP",
+      "startCharOffset": 38,
+      "endCharOffset": 41
+    },
+    {
+      "form": "AFTER",
+      "startCharOffset": 42,
+      "endCharOffset": 47
+    },
+    {
+      "form": "INNINGS",
+      "startCharOffset": 48,
+      "endCharOffset": 55
+    },
+    {
+      "form": "VICTORY",
+      "startCharOffset": 56,
+      "endCharOffset": 63
+    },
+    {
+      "form": ".",
+      "startCharOffset": 64,
+      "endCharOffset": 65
+    },
+    {
+      "form": "LONDON",
+      "startCharOffset": 66,
+      "endCharOffset": 72
+    },
+    {
+      "form": "1996-08-30",
+      "startCharOffset": 73,
+      "endCharOffset": 83
+    },
+    {
+      "form": "West",
+      "startCharOffset": 84,
+      "endCharOffset": 88
+    },
+    {
+      "form": "Indian",
+      "startCharOffset": 89,
+      "endCharOffset": 95
+    },
+    {
+      "form": "all-rounder",
+      "startCharOffset": 96,
+      "endCharOffset": 107
+    },
+    {
+      "form": "Phil",
+      "startCharOffset": 108,
+      "endCharOffset": 112
+    },
+    {
+      "form": "Simmons",
+      "startCharOffset": 113,
+      "endCharOffset": 120
+    },
+    {
+      "form": "took",
+      "startCharOffset": 121,
+      "endCharOffset": 125
+    },
+    {
+      "form": "four",
+      "startCharOffset": 126,
+      "endCharOffset": 130
+    },
+    {
+      "form": "for",
+      "startCharOffset": 131,
+      "endCharOffset": 134
+    },
+    {
+      "form": "38",
+      "startCharOffset": 135,
+      "endCharOffset": 137
+    },
+    {
+      "form": "on",
+      "startCharOffset": 138,
+      "endCharOffset": 140
+    },
+    {
+      "form": "Friday",
+      "startCharOffset": 141,
+      "endCharOffset": 147
+    },
+    {
+      "form": "as",
+      "startCharOffset": 148,
+      "endCharOffset": 150
+    },
+    {
+      "form": "Leicestershire",
+      "startCharOffset": 151,
+      "endCharOffset": 165
+    },
+    {
+      "form": "beat",
+      "startCharOffset": 166,
+      "endCharOffset": 170
+    },
+    {
+      "form": "Somerset",
+      "startCharOffset": 171,
+      "endCharOffset": 179
+    },
+    {
+      "form": "by",
+      "startCharOffset": 180,
+      "endCharOffset": 182
+    },
+    {
+      "form": "an",
+      "startCharOffset": 183,
+      "endCharOffset": 185
+    },
+    {
+      "form": "innings",
+      "startCharOffset": 186,
+      "endCharOffset": 193
+    },
+    {
+      "form": "and",
+      "startCharOffset": 194,
+      "endCharOffset": 197
+    },
+    {
+      "form": "39",
+      "startCharOffset": 198,
+      "endCharOffset": 200
+    },
+    {
+      "form": "runs",
+      "startCharOffset": 201,
+      "endCharOffset": 205
+    },
+    {
+      "form": "in",
+      "startCharOffset": 206,
+      "endCharOffset": 208
+    },
+    {
+      "form": "two",
+      "startCharOffset": 209,
+      "endCharOffset": 212
+    },
+    {
+      "form": "days",
+      "startCharOffset": 213,
+      "endCharOffset": 217
+    },
+    {
+      "form": "to",
+      "startCharOffset": 218,
+      "endCharOffset": 220
+    },
+    {
+      "form": "take",
+      "startCharOffset": 221,
+      "endCharOffset": 225
+    },
+    {
+      "form": "over",
+      "startCharOffset": 226,
+      "endCharOffset": 230
+    },
+    {
+      "form": "at",
+      "startCharOffset": 231,
+      "endCharOffset": 233
+    },
+    {
+      "form": "the",
+      "startCharOffset": 234,
+      "endCharOffset": 237
+    },
+    {
+      "form": "head",
+      "startCharOffset": 238,
+      "endCharOffset": 242
+    },
+    {
+      "form": "of",
+      "startCharOffset": 243,
+      "endCharOffset": 245
+    },
+    {
+      "form": "the",
+      "startCharOffset": 246,
+      "endCharOffset": 249
+    },
+    {
+      "form": "county",
+      "startCharOffset": 250,
+      "endCharOffset": 256
+    },
+    {
+      "form": "championship",
+      "startCharOffset": 257,
+      "endCharOffset": 269
+    },
+    {
+      "form": ".",
+      "startCharOffset": 270,
+      "endCharOffset": 271
+    },
+    {
+      "form": "Their",
+      "startCharOffset": 272,
+      "endCharOffset": 277
+    },
+    {
+      "form": "stay",
+      "startCharOffset": 278,
+      "endCharOffset": 282
+    },
+    {
+      "form": "on",
+      "startCharOffset": 283,
+      "endCharOffset": 285
+    },
+    {
+      "form": "top",
+      "startCharOffset": 286,
+      "endCharOffset": 289
+    },
+    {
+      "form": ",",
+      "startCharOffset": 290,
+      "endCharOffset": 291
+    },
+    {
+      "form": "though",
+      "startCharOffset": 292,
+      "endCharOffset": 298
+    },
+    {
+      "form": ",",
+      "startCharOffset": 299,
+      "endCharOffset": 300
+    },
+    {
+      "form": "may",
+      "startCharOffset": 301,
+      "endCharOffset": 304
+    },
+    {
+      "form": "be",
+      "startCharOffset": 305,
+      "endCharOffset": 307
+    },
+    {
+      "form": "short-lived",
+      "startCharOffset": 308,
+      "endCharOffset": 319
+    },
+    {
+      "form": "as",
+      "startCharOffset": 320,
+      "endCharOffset": 322
+    },
+    {
+      "form": "title",
+      "startCharOffset": 323,
+      "endCharOffset": 328
+    },
+    {
+      "form": "rivals",
+      "startCharOffset": 329,
+      "endCharOffset": 335
+    },
+    {
+      "form": "Essex",
+      "startCharOffset": 336,
+      "endCharOffset": 341
+    },
+    {
+      "form": ",",
+      "startCharOffset": 342,
+      "endCharOffset": 343
+    },
+    {
+      "form": "Derbyshire",
+      "startCharOffset": 344,
+      "endCharOffset": 354
+    },
+    {
+      "form": "and",
+      "startCharOffset": 355,
+      "endCharOffset": 358
+    },
+    {
+      "form": "Surrey",
+      "startCharOffset": 359,
+      "endCharOffset": 365
+    },
+    {
+      "form": "all",
+      "startCharOffset": 366,
+      "endCharOffset": 369
+    },
+    {
+      "form": "closed",
+      "startCharOffset": 370,
+      "endCharOffset": 376
+    },
+    {
+      "form": "in",
+      "startCharOffset": 377,
+      "endCharOffset": 379
+    },
+    {
+      "form": "on",
+      "startCharOffset": 380,
+      "endCharOffset": 382
+    },
+    {
+      "form": "victory",
+      "startCharOffset": 383,
+      "endCharOffset": 390
+    },
+    {
+      "form": "while",
+      "startCharOffset": 391,
+      "endCharOffset": 396
+    },
+    {
+      "form": "Kent",
+      "startCharOffset": 397,
+      "endCharOffset": 401
+    },
+    {
+      "form": "made",
+      "startCharOffset": 402,
+      "endCharOffset": 406
+    },
+    {
+      "form": "up",
+      "startCharOffset": 407,
+      "endCharOffset": 409
+    },
+    {
+      "form": "for",
+      "startCharOffset": 410,
+      "endCharOffset": 413
+    },
+    {
+      "form": "lost",
+      "startCharOffset": 414,
+      "endCharOffset": 418
+    },
+    {
+      "form": "time",
+      "startCharOffset": 419,
+      "endCharOffset": 423
+    },
+    {
+      "form": "in",
+      "startCharOffset": 424,
+      "endCharOffset": 426
+    },
+    {
+      "form": "their",
+      "startCharOffset": 427,
+      "endCharOffset": 432
+    },
+    {
+      "form": "rain-affected",
+      "startCharOffset": 433,
+      "endCharOffset": 446
+    },
+    {
+      "form": "match",
+      "startCharOffset": 447,
+      "endCharOffset": 452
+    },
+    {
+      "form": "against",
+      "startCharOffset": 453,
+      "endCharOffset": 460
+    },
+    {
+      "form": "Nottinghamshire",
+      "startCharOffset": 461,
+      "endCharOffset": 476
+    },
+    {
+      "form": ".",
+      "startCharOffset": 477,
+      "endCharOffset": 478
+    },
+    {
+      "form": "After",
+      "startCharOffset": 479,
+      "endCharOffset": 484
+    },
+    {
+      "form": "bowling",
+      "startCharOffset": 485,
+      "endCharOffset": 492
+    },
+    {
+      "form": "Somerset",
+      "startCharOffset": 493,
+      "endCharOffset": 501
+    },
+    {
+      "form": "out",
+      "startCharOffset": 502,
+      "endCharOffset": 505
+    },
+    {
+      "form": "for",
+      "startCharOffset": 506,
+      "endCharOffset": 509
+    },
+    {
+      "form": "83",
+      "startCharOffset": 510,
+      "endCharOffset": 512
+    },
+    {
+      "form": "on",
+      "startCharOffset": 513,
+      "endCharOffset": 515
+    },
+    {
+      "form": "the",
+      "startCharOffset": 516,
+      "endCharOffset": 519
+    },
+    {
+      "form": "opening",
+      "startCharOffset": 520,
+      "endCharOffset": 527
+    },
+    {
+      "form": "morning",
+      "startCharOffset": 528,
+      "endCharOffset": 535
+    },
+    {
+      "form": "at",
+      "startCharOffset": 536,
+      "endCharOffset": 538
+    },
+    {
+      "form": "Grace",
+      "startCharOffset": 539,
+      "endCharOffset": 544
+    },
+    {
+      "form": "Road",
+      "startCharOffset": 545,
+      "endCharOffset": 549
+    },
+    {
+      "form": ",",
+      "startCharOffset": 550,
+      "endCharOffset": 551
+    },
+    {
+      "form": "Leicestershire",
+      "startCharOffset": 552,
+      "endCharOffset": 566
+    },
+    {
+      "form": "extended",
+      "startCharOffset": 567,
+      "endCharOffset": 575
+    },
+    {
+      "form": "their",
+      "startCharOffset": 576,
+      "endCharOffset": 581
+    },
+    {
+      "form": "first",
+      "startCharOffset": 582,
+      "endCharOffset": 587
+    },
+    {
+      "form": "innings",
+      "startCharOffset": 588,
+      "endCharOffset": 595
+    },
+    {
+      "form": "by",
+      "startCharOffset": 596,
+      "endCharOffset": 598
+    },
+    {
+      "form": "94",
+      "startCharOffset": 599,
+      "endCharOffset": 601
+    },
+    {
+      "form": "runs",
+      "startCharOffset": 602,
+      "endCharOffset": 606
+    },
+    {
+      "form": "before",
+      "startCharOffset": 607,
+      "endCharOffset": 613
+    },
+    {
+      "form": "being",
+      "startCharOffset": 614,
+      "endCharOffset": 619
+    },
+    {
+      "form": "bowled",
+      "startCharOffset": 620,
+      "endCharOffset": 626
+    },
+    {
+      "form": "out",
+      "startCharOffset": 627,
+      "endCharOffset": 630
+    },
+    {
+      "form": "for",
+      "startCharOffset": 631,
+      "endCharOffset": 634
+    },
+    {
+      "form": "296",
+      "startCharOffset": 635,
+      "endCharOffset": 638
+    },
+    {
+      "form": "with",
+      "startCharOffset": 639,
+      "endCharOffset": 643
+    },
+    {
+      "form": "England",
+      "startCharOffset": 644,
+      "endCharOffset": 651
+    },
+    {
+      "form": "discard",
+      "startCharOffset": 652,
+      "endCharOffset": 659
+    },
+    {
+      "form": "Andy",
+      "startCharOffset": 660,
+      "endCharOffset": 664
+    },
+    {
+      "form": "Caddick",
+      "startCharOffset": 665,
+      "endCharOffset": 672
+    },
+    {
+      "form": "taking",
+      "startCharOffset": 673,
+      "endCharOffset": 679
+    },
+    {
+      "form": "three",
+      "startCharOffset": 680,
+      "endCharOffset": 685
+    },
+    {
+      "form": "for",
+      "startCharOffset": 686,
+      "endCharOffset": 689
+    },
+    {
+      "form": "83",
+      "startCharOffset": 690,
+      "endCharOffset": 692
+    },
+    {
+      "form": ".",
+      "startCharOffset": 693,
+      "endCharOffset": 694
+    },
+    {
+      "form": "Trailing",
+      "startCharOffset": 695,
+      "endCharOffset": 703
+    },
+    {
+      "form": "by",
+      "startCharOffset": 704,
+      "endCharOffset": 706
+    },
+    {
+      "form": "213",
+      "startCharOffset": 707,
+      "endCharOffset": 710
+    },
+    {
+      "form": ",",
+      "startCharOffset": 711,
+      "endCharOffset": 712
+    },
+    {
+      "form": "Somerset",
+      "startCharOffset": 713,
+      "endCharOffset": 721
+    },
+    {
+      "form": "got",
+      "startCharOffset": 722,
+      "endCharOffset": 725
+    },
+    {
+      "form": "a",
+      "startCharOffset": 726,
+      "endCharOffset": 727
+    },
+    {
+      "form": "solid",
+      "startCharOffset": 728,
+      "endCharOffset": 733
+    },
+    {
+      "form": "start",
+      "startCharOffset": 734,
+      "endCharOffset": 739
+    },
+    {
+      "form": "to",
+      "startCharOffset": 740,
+      "endCharOffset": 742
+    },
+    {
+      "form": "their",
+      "startCharOffset": 743,
+      "endCharOffset": 748
+    },
+    {
+      "form": "second",
+      "startCharOffset": 749,
+      "endCharOffset": 755
+    },
+    {
+      "form": "innings",
+      "startCharOffset": 756,
+      "endCharOffset": 763
+    },
+    {
+      "form": "before",
+      "startCharOffset": 764,
+      "endCharOffset": 770
+    },
+    {
+      "form": "Simmons",
+      "startCharOffset": 771,
+      "endCharOffset": 778
+    },
+    {
+      "form": "stepped",
+      "startCharOffset": 779,
+      "endCharOffset": 786
+    },
+    {
+      "form": "in",
+      "startCharOffset": 787,
+      "endCharOffset": 789
+    },
+    {
+      "form": "to",
+      "startCharOffset": 790,
+      "endCharOffset": 792
+    },
+    {
+      "form": "bundle",
+      "startCharOffset": 793,
+      "endCharOffset": 799
+    },
+    {
+      "form": "them",
+      "startCharOffset": 800,
+      "endCharOffset": 804
+    },
+    {
+      "form": "out",
+      "startCharOffset": 805,
+      "endCharOffset": 808
+    },
+    {
+      "form": "for",
+      "startCharOffset": 809,
+      "endCharOffset": 812
+    },
+    {
+      "form": "174",
+      "startCharOffset": 813,
+      "endCharOffset": 816
+    },
+    {
+      "form": ".",
+      "startCharOffset": 817,
+      "endCharOffset": 818
+    },
+    {
+      "form": "Essex",
+      "startCharOffset": 819,
+      "endCharOffset": 824
+    },
+    {
+      "form": ",",
+      "startCharOffset": 825,
+      "endCharOffset": 826
+    },
+    {
+      "form": "however",
+      "startCharOffset": 827,
+      "endCharOffset": 834
+    },
+    {
+      "form": ",",
+      "startCharOffset": 835,
+      "endCharOffset": 836
+    },
+    {
+      "form": "look",
+      "startCharOffset": 837,
+      "endCharOffset": 841
+    },
+    {
+      "form": "certain",
+      "startCharOffset": 842,
+      "endCharOffset": 849
+    },
+    {
+      "form": "to",
+      "startCharOffset": 850,
+      "endCharOffset": 852
+    },
+    {
+      "form": "regain",
+      "startCharOffset": 853,
+      "endCharOffset": 859
+    },
+    {
+      "form": "their",
+      "startCharOffset": 860,
+      "endCharOffset": 865
+    },
+    {
+      "form": "top",
+      "startCharOffset": 866,
+      "endCharOffset": 869
+    },
+    {
+      "form": "spot",
+      "startCharOffset": 870,
+      "endCharOffset": 874
+    },
+    {
+      "form": "after",
+      "startCharOffset": 875,
+      "endCharOffset": 880
+    },
+    {
+      "form": "Nasser",
+      "startCharOffset": 881,
+      "endCharOffset": 887
+    },
+    {
+      "form": "Hussain",
+      "startCharOffset": 888,
+      "endCharOffset": 895
+    },
+    {
+      "form": "and",
+      "startCharOffset": 896,
+      "endCharOffset": 899
+    },
+    {
+      "form": "Peter",
+      "startCharOffset": 900,
+      "endCharOffset": 905
+    },
+    {
+      "form": "Such",
+      "startCharOffset": 906,
+      "endCharOffset": 910
+    },
+    {
+      "form": "gave",
+      "startCharOffset": 911,
+      "endCharOffset": 915
+    },
+    {
+      "form": "them",
+      "startCharOffset": 916,
+      "endCharOffset": 920
+    },
+    {
+      "form": "a",
+      "startCharOffset": 921,
+      "endCharOffset": 922
+    },
+    {
+      "form": "firm",
+      "startCharOffset": 923,
+      "endCharOffset": 927
+    },
+    {
+      "form": "grip",
+      "startCharOffset": 928,
+      "endCharOffset": 932
+    },
+    {
+      "form": "on",
+      "startCharOffset": 933,
+      "endCharOffset": 935
+    },
+    {
+      "form": "their",
+      "startCharOffset": 936,
+      "endCharOffset": 941
+    },
+    {
+      "form": "match",
+      "startCharOffset": 942,
+      "endCharOffset": 947
+    },
+    {
+      "form": "against",
+      "startCharOffset": 948,
+      "endCharOffset": 955
+    },
+    {
+      "form": "Yorkshire",
+      "startCharOffset": 956,
+      "endCharOffset": 965
+    },
+    {
+      "form": "at",
+      "startCharOffset": 966,
+      "endCharOffset": 968
+    },
+    {
+      "form": "Headingley",
+      "startCharOffset": 969,
+      "endCharOffset": 979
+    },
+    {
+      "form": ".",
+      "startCharOffset": 980,
+      "endCharOffset": 981
+    },
+    {
+      "form": "Hussain",
+      "startCharOffset": 982,
+      "endCharOffset": 989
+    },
+    {
+      "form": ",",
+      "startCharOffset": 990,
+      "endCharOffset": 991
+    },
+    {
+      "form": "considered",
+      "startCharOffset": 992,
+      "endCharOffset": 1002
+    },
+    {
+      "form": "surplus",
+      "startCharOffset": 1003,
+      "endCharOffset": 1010
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1011,
+      "endCharOffset": 1013
+    },
+    {
+      "form": "England",
+      "startCharOffset": 1014,
+      "endCharOffset": 1021
+    },
+    {
+      "form": "\u0027s",
+      "startCharOffset": 1022,
+      "endCharOffset": 1024
+    },
+    {
+      "form": "one-day",
+      "startCharOffset": 1025,
+      "endCharOffset": 1032
+    },
+    {
+      "form": "requirements",
+      "startCharOffset": 1033,
+      "endCharOffset": 1045
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1046,
+      "endCharOffset": 1047
+    },
+    {
+      "form": "struck",
+      "startCharOffset": 1048,
+      "endCharOffset": 1054
+    },
+    {
+      "form": "158",
+      "startCharOffset": 1055,
+      "endCharOffset": 1058
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1059,
+      "endCharOffset": 1060
+    },
+    {
+      "form": "his",
+      "startCharOffset": 1061,
+      "endCharOffset": 1064
+    },
+    {
+      "form": "first",
+      "startCharOffset": 1065,
+      "endCharOffset": 1070
+    },
+    {
+      "form": "championship",
+      "startCharOffset": 1071,
+      "endCharOffset": 1083
+    },
+    {
+      "form": "century",
+      "startCharOffset": 1084,
+      "endCharOffset": 1091
+    },
+    {
+      "form": "of",
+      "startCharOffset": 1092,
+      "endCharOffset": 1094
+    },
+    {
+      "form": "the",
+      "startCharOffset": 1095,
+      "endCharOffset": 1098
+    },
+    {
+      "form": "season",
+      "startCharOffset": 1099,
+      "endCharOffset": 1105
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1106,
+      "endCharOffset": 1107
+    },
+    {
+      "form": "as",
+      "startCharOffset": 1108,
+      "endCharOffset": 1110
+    },
+    {
+      "form": "Essex",
+      "startCharOffset": 1111,
+      "endCharOffset": 1116
+    },
+    {
+      "form": "reached",
+      "startCharOffset": 1117,
+      "endCharOffset": 1124
+    },
+    {
+      "form": "372",
+      "startCharOffset": 1125,
+      "endCharOffset": 1128
+    },
+    {
+      "form": "and",
+      "startCharOffset": 1129,
+      "endCharOffset": 1132
+    },
+    {
+      "form": "took",
+      "startCharOffset": 1133,
+      "endCharOffset": 1137
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1138,
+      "endCharOffset": 1139
+    },
+    {
+      "form": "first",
+      "startCharOffset": 1140,
+      "endCharOffset": 1145
+    },
+    {
+      "form": "innings",
+      "startCharOffset": 1146,
+      "endCharOffset": 1153
+    },
+    {
+      "form": "lead",
+      "startCharOffset": 1154,
+      "endCharOffset": 1158
+    },
+    {
+      "form": "of",
+      "startCharOffset": 1159,
+      "endCharOffset": 1161
+    },
+    {
+      "form": "82",
+      "startCharOffset": 1162,
+      "endCharOffset": 1164
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1165,
+      "endCharOffset": 1166
+    },
+    {
+      "form": "By",
+      "startCharOffset": 1167,
+      "endCharOffset": 1169
+    },
+    {
+      "form": "the",
+      "startCharOffset": 1170,
+      "endCharOffset": 1173
+    },
+    {
+      "form": "close",
+      "startCharOffset": 1174,
+      "endCharOffset": 1179
+    },
+    {
+      "form": "Yorkshire",
+      "startCharOffset": 1180,
+      "endCharOffset": 1189
+    },
+    {
+      "form": "had",
+      "startCharOffset": 1190,
+      "endCharOffset": 1193
+    },
+    {
+      "form": "turned",
+      "startCharOffset": 1194,
+      "endCharOffset": 1200
+    },
+    {
+      "form": "that",
+      "startCharOffset": 1201,
+      "endCharOffset": 1205
+    },
+    {
+      "form": "into",
+      "startCharOffset": 1206,
+      "endCharOffset": 1210
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1211,
+      "endCharOffset": 1212
+    },
+    {
+      "form": "37-run",
+      "startCharOffset": 1213,
+      "endCharOffset": 1219
+    },
+    {
+      "form": "advantage",
+      "startCharOffset": 1220,
+      "endCharOffset": 1229
+    },
+    {
+      "form": "but",
+      "startCharOffset": 1230,
+      "endCharOffset": 1233
+    },
+    {
+      "form": "off-spinner",
+      "startCharOffset": 1234,
+      "endCharOffset": 1245
+    },
+    {
+      "form": "Such",
+      "startCharOffset": 1246,
+      "endCharOffset": 1250
+    },
+    {
+      "form": "had",
+      "startCharOffset": 1251,
+      "endCharOffset": 1254
+    },
+    {
+      "form": "scuttled",
+      "startCharOffset": 1255,
+      "endCharOffset": 1263
+    },
+    {
+      "form": "their",
+      "startCharOffset": 1264,
+      "endCharOffset": 1269
+    },
+    {
+      "form": "hopes",
+      "startCharOffset": 1270,
+      "endCharOffset": 1275
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1276,
+      "endCharOffset": 1277
+    },
+    {
+      "form": "taking",
+      "startCharOffset": 1278,
+      "endCharOffset": 1284
+    },
+    {
+      "form": "four",
+      "startCharOffset": 1285,
+      "endCharOffset": 1289
+    },
+    {
+      "form": "for",
+      "startCharOffset": 1290,
+      "endCharOffset": 1293
+    },
+    {
+      "form": "24",
+      "startCharOffset": 1294,
+      "endCharOffset": 1296
+    },
+    {
+      "form": "in",
+      "startCharOffset": 1297,
+      "endCharOffset": 1299
+    },
+    {
+      "form": "48",
+      "startCharOffset": 1300,
+      "endCharOffset": 1302
+    },
+    {
+      "form": "balls",
+      "startCharOffset": 1303,
+      "endCharOffset": 1308
+    },
+    {
+      "form": "and",
+      "startCharOffset": 1309,
+      "endCharOffset": 1312
+    },
+    {
+      "form": "leaving",
+      "startCharOffset": 1313,
+      "endCharOffset": 1320
+    },
+    {
+      "form": "them",
+      "startCharOffset": 1321,
+      "endCharOffset": 1325
+    },
+    {
+      "form": "hanging",
+      "startCharOffset": 1326,
+      "endCharOffset": 1333
+    },
+    {
+      "form": "on",
+      "startCharOffset": 1334,
+      "endCharOffset": 1336
+    },
+    {
+      "form": "119",
+      "startCharOffset": 1337,
+      "endCharOffset": 1340
+    },
+    {
+      "form": "for",
+      "startCharOffset": 1341,
+      "endCharOffset": 1344
+    },
+    {
+      "form": "five",
+      "startCharOffset": 1345,
+      "endCharOffset": 1349
+    },
+    {
+      "form": "and",
+      "startCharOffset": 1350,
+      "endCharOffset": 1353
+    },
+    {
+      "form": "praying",
+      "startCharOffset": 1354,
+      "endCharOffset": 1361
+    },
+    {
+      "form": "for",
+      "startCharOffset": 1362,
+      "endCharOffset": 1365
+    },
+    {
+      "form": "rain",
+      "startCharOffset": 1366,
+      "endCharOffset": 1370
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1371,
+      "endCharOffset": 1372
+    },
+    {
+      "form": "At",
+      "startCharOffset": 1373,
+      "endCharOffset": 1375
+    },
+    {
+      "form": "the",
+      "startCharOffset": 1376,
+      "endCharOffset": 1379
+    },
+    {
+      "form": "Oval",
+      "startCharOffset": 1380,
+      "endCharOffset": 1384
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1385,
+      "endCharOffset": 1386
+    },
+    {
+      "form": "Surrey",
+      "startCharOffset": 1387,
+      "endCharOffset": 1393
+    },
+    {
+      "form": "captain",
+      "startCharOffset": 1394,
+      "endCharOffset": 1401
+    },
+    {
+      "form": "Chris",
+      "startCharOffset": 1402,
+      "endCharOffset": 1407
+    },
+    {
+      "form": "Lewis",
+      "startCharOffset": 1408,
+      "endCharOffset": 1413
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1414,
+      "endCharOffset": 1415
+    },
+    {
+      "form": "another",
+      "startCharOffset": 1416,
+      "endCharOffset": 1423
+    },
+    {
+      "form": "man",
+      "startCharOffset": 1424,
+      "endCharOffset": 1427
+    },
+    {
+      "form": "dumped",
+      "startCharOffset": 1428,
+      "endCharOffset": 1434
+    },
+    {
+      "form": "by",
+      "startCharOffset": 1435,
+      "endCharOffset": 1437
+    },
+    {
+      "form": "England",
+      "startCharOffset": 1438,
+      "endCharOffset": 1445
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1446,
+      "endCharOffset": 1447
+    },
+    {
+      "form": "continued",
+      "startCharOffset": 1448,
+      "endCharOffset": 1457
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1458,
+      "endCharOffset": 1460
+    },
+    {
+      "form": "silence",
+      "startCharOffset": 1461,
+      "endCharOffset": 1468
+    },
+    {
+      "form": "his",
+      "startCharOffset": 1469,
+      "endCharOffset": 1472
+    },
+    {
+      "form": "critics",
+      "startCharOffset": 1473,
+      "endCharOffset": 1480
+    },
+    {
+      "form": "as",
+      "startCharOffset": 1481,
+      "endCharOffset": 1483
+    },
+    {
+      "form": "he",
+      "startCharOffset": 1484,
+      "endCharOffset": 1486
+    },
+    {
+      "form": "followed",
+      "startCharOffset": 1487,
+      "endCharOffset": 1495
+    },
+    {
+      "form": "his",
+      "startCharOffset": 1496,
+      "endCharOffset": 1499
+    },
+    {
+      "form": "four",
+      "startCharOffset": 1500,
+      "endCharOffset": 1504
+    },
+    {
+      "form": "for",
+      "startCharOffset": 1505,
+      "endCharOffset": 1508
+    },
+    {
+      "form": "45",
+      "startCharOffset": 1509,
+      "endCharOffset": 1511
+    },
+    {
+      "form": "on",
+      "startCharOffset": 1512,
+      "endCharOffset": 1514
+    },
+    {
+      "form": "Thursday",
+      "startCharOffset": 1515,
+      "endCharOffset": 1523
+    },
+    {
+      "form": "with",
+      "startCharOffset": 1524,
+      "endCharOffset": 1528
+    },
+    {
+      "form": "80",
+      "startCharOffset": 1529,
+      "endCharOffset": 1531
+    },
+    {
+      "form": "not",
+      "startCharOffset": 1532,
+      "endCharOffset": 1535
+    },
+    {
+      "form": "out",
+      "startCharOffset": 1536,
+      "endCharOffset": 1539
+    },
+    {
+      "form": "on",
+      "startCharOffset": 1540,
+      "endCharOffset": 1542
+    },
+    {
+      "form": "Friday",
+      "startCharOffset": 1543,
+      "endCharOffset": 1549
+    },
+    {
+      "form": "in",
+      "startCharOffset": 1550,
+      "endCharOffset": 1552
+    },
+    {
+      "form": "the",
+      "startCharOffset": 1553,
+      "endCharOffset": 1556
+    },
+    {
+      "form": "match",
+      "startCharOffset": 1557,
+      "endCharOffset": 1562
+    },
+    {
+      "form": "against",
+      "startCharOffset": 1563,
+      "endCharOffset": 1570
+    },
+    {
+      "form": "Warwickshire",
+      "startCharOffset": 1571,
+      "endCharOffset": 1583
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1584,
+      "endCharOffset": 1585
+    },
+    {
+      "form": "He",
+      "startCharOffset": 1586,
+      "endCharOffset": 1588
+    },
+    {
+      "form": "was",
+      "startCharOffset": 1589,
+      "endCharOffset": 1592
+    },
+    {
+      "form": "well",
+      "startCharOffset": 1593,
+      "endCharOffset": 1597
+    },
+    {
+      "form": "backed",
+      "startCharOffset": 1598,
+      "endCharOffset": 1604
+    },
+    {
+      "form": "by",
+      "startCharOffset": 1605,
+      "endCharOffset": 1607
+    },
+    {
+      "form": "England",
+      "startCharOffset": 1608,
+      "endCharOffset": 1615
+    },
+    {
+      "form": "hopeful",
+      "startCharOffset": 1616,
+      "endCharOffset": 1623
+    },
+    {
+      "form": "Mark",
+      "startCharOffset": 1624,
+      "endCharOffset": 1628
+    },
+    {
+      "form": "Butcher",
+      "startCharOffset": 1629,
+      "endCharOffset": 1636
+    },
+    {
+      "form": "who",
+      "startCharOffset": 1637,
+      "endCharOffset": 1640
+    },
+    {
+      "form": "made",
+      "startCharOffset": 1641,
+      "endCharOffset": 1645
+    },
+    {
+      "form": "70",
+      "startCharOffset": 1646,
+      "endCharOffset": 1648
+    },
+    {
+      "form": "as",
+      "startCharOffset": 1649,
+      "endCharOffset": 1651
+    },
+    {
+      "form": "Surrey",
+      "startCharOffset": 1652,
+      "endCharOffset": 1658
+    },
+    {
+      "form": "closed",
+      "startCharOffset": 1659,
+      "endCharOffset": 1665
+    },
+    {
+      "form": "on",
+      "startCharOffset": 1666,
+      "endCharOffset": 1668
+    },
+    {
+      "form": "429",
+      "startCharOffset": 1669,
+      "endCharOffset": 1672
+    },
+    {
+      "form": "for",
+      "startCharOffset": 1673,
+      "endCharOffset": 1676
+    },
+    {
+      "form": "seven",
+      "startCharOffset": 1677,
+      "endCharOffset": 1682
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1683,
+      "endCharOffset": 1684
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1685,
+      "endCharOffset": 1686
+    },
+    {
+      "form": "lead",
+      "startCharOffset": 1687,
+      "endCharOffset": 1691
+    },
+    {
+      "form": "of",
+      "startCharOffset": 1692,
+      "endCharOffset": 1694
+    },
+    {
+      "form": "234",
+      "startCharOffset": 1695,
+      "endCharOffset": 1698
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1699,
+      "endCharOffset": 1700
+    },
+    {
+      "form": "Derbyshire",
+      "startCharOffset": 1701,
+      "endCharOffset": 1711
+    },
+    {
+      "form": "kept",
+      "startCharOffset": 1712,
+      "endCharOffset": 1716
+    },
+    {
+      "form": "up",
+      "startCharOffset": 1717,
+      "endCharOffset": 1719
+    },
+    {
+      "form": "the",
+      "startCharOffset": 1720,
+      "endCharOffset": 1723
+    },
+    {
+      "form": "hunt",
+      "startCharOffset": 1724,
+      "endCharOffset": 1728
+    },
+    {
+      "form": "for",
+      "startCharOffset": 1729,
+      "endCharOffset": 1732
+    },
+    {
+      "form": "their",
+      "startCharOffset": 1733,
+      "endCharOffset": 1738
+    },
+    {
+      "form": "first",
+      "startCharOffset": 1739,
+      "endCharOffset": 1744
+    },
+    {
+      "form": "championship",
+      "startCharOffset": 1745,
+      "endCharOffset": 1757
+    },
+    {
+      "form": "title",
+      "startCharOffset": 1758,
+      "endCharOffset": 1763
+    },
+    {
+      "form": "since",
+      "startCharOffset": 1764,
+      "endCharOffset": 1769
+    },
+    {
+      "form": "1936",
+      "startCharOffset": 1770,
+      "endCharOffset": 1774
+    },
+    {
+      "form": "by",
+      "startCharOffset": 1775,
+      "endCharOffset": 1777
+    },
+    {
+      "form": "reducing",
+      "startCharOffset": 1778,
+      "endCharOffset": 1786
+    },
+    {
+      "form": "Worcestershire",
+      "startCharOffset": 1787,
+      "endCharOffset": 1801
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1802,
+      "endCharOffset": 1804
+    },
+    {
+      "form": "133",
+      "startCharOffset": 1805,
+      "endCharOffset": 1808
+    },
+    {
+      "form": "for",
+      "startCharOffset": 1809,
+      "endCharOffset": 1812
+    },
+    {
+      "form": "five",
+      "startCharOffset": 1813,
+      "endCharOffset": 1817
+    },
+    {
+      "form": "in",
+      "startCharOffset": 1818,
+      "endCharOffset": 1820
+    },
+    {
+      "form": "their",
+      "startCharOffset": 1821,
+      "endCharOffset": 1826
+    },
+    {
+      "form": "second",
+      "startCharOffset": 1827,
+      "endCharOffset": 1833
+    },
+    {
+      "form": "innings",
+      "startCharOffset": 1834,
+      "endCharOffset": 1841
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1842,
+      "endCharOffset": 1843
+    },
+    {
+      "form": "still",
+      "startCharOffset": 1844,
+      "endCharOffset": 1849
+    },
+    {
+      "form": "100",
+      "startCharOffset": 1850,
+      "endCharOffset": 1853
+    },
+    {
+      "form": "runs",
+      "startCharOffset": 1854,
+      "endCharOffset": 1858
+    },
+    {
+      "form": "away",
+      "startCharOffset": 1859,
+      "endCharOffset": 1863
+    },
+    {
+      "form": "from",
+      "startCharOffset": 1864,
+      "endCharOffset": 1868
+    },
+    {
+      "form": "avoiding",
+      "startCharOffset": 1869,
+      "endCharOffset": 1877
+    },
+    {
+      "form": "an",
+      "startCharOffset": 1878,
+      "endCharOffset": 1880
+    },
+    {
+      "form": "innings",
+      "startCharOffset": 1881,
+      "endCharOffset": 1888
+    },
+    {
+      "form": "defeat",
+      "startCharOffset": 1889,
+      "endCharOffset": 1895
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1896,
+      "endCharOffset": 1897
+    },
+    {
+      "form": "Australian",
+      "startCharOffset": 1898,
+      "endCharOffset": 1908
+    },
+    {
+      "form": "Tom",
+      "startCharOffset": 1909,
+      "endCharOffset": 1912
+    },
+    {
+      "form": "Moody",
+      "startCharOffset": 1913,
+      "endCharOffset": 1918
+    },
+    {
+      "form": "took",
+      "startCharOffset": 1919,
+      "endCharOffset": 1923
+    },
+    {
+      "form": "six",
+      "startCharOffset": 1924,
+      "endCharOffset": 1927
+    },
+    {
+      "form": "for",
+      "startCharOffset": 1928,
+      "endCharOffset": 1931
+    },
+    {
+      "form": "82",
+      "startCharOffset": 1932,
+      "endCharOffset": 1934
+    },
+    {
+      "form": "but",
+      "startCharOffset": 1935,
+      "endCharOffset": 1938
+    },
+    {
+      "form": "Chris",
+      "startCharOffset": 1939,
+      "endCharOffset": 1944
+    },
+    {
+      "form": "Adams",
+      "startCharOffset": 1945,
+      "endCharOffset": 1950
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1951,
+      "endCharOffset": 1952
+    },
+    {
+      "form": "123",
+      "startCharOffset": 1953,
+      "endCharOffset": 1956
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1957,
+      "endCharOffset": 1958
+    },
+    {
+      "form": "and",
+      "startCharOffset": 1959,
+      "endCharOffset": 1962
+    },
+    {
+      "form": "Tim",
+      "startCharOffset": 1963,
+      "endCharOffset": 1966
+    },
+    {
+      "form": "O\u0027Gorman",
+      "startCharOffset": 1967,
+      "endCharOffset": 1975
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1976,
+      "endCharOffset": 1977
+    },
+    {
+      "form": "109",
+      "startCharOffset": 1978,
+      "endCharOffset": 1981
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1982,
+      "endCharOffset": 1983
+    },
+    {
+      "form": "took",
+      "startCharOffset": 1984,
+      "endCharOffset": 1988
+    },
+    {
+      "form": "Derbyshire",
+      "startCharOffset": 1989,
+      "endCharOffset": 1999
+    },
+    {
+      "form": "to",
+      "startCharOffset": 2000,
+      "endCharOffset": 2002
+    },
+    {
+      "form": "471",
+      "startCharOffset": 2003,
+      "endCharOffset": 2006
+    },
+    {
+      "form": "and",
+      "startCharOffset": 2007,
+      "endCharOffset": 2010
+    },
+    {
+      "form": "a",
+      "startCharOffset": 2011,
+      "endCharOffset": 2012
+    },
+    {
+      "form": "first",
+      "startCharOffset": 2013,
+      "endCharOffset": 2018
+    },
+    {
+      "form": "innings",
+      "startCharOffset": 2019,
+      "endCharOffset": 2026
+    },
+    {
+      "form": "lead",
+      "startCharOffset": 2027,
+      "endCharOffset": 2031
+    },
+    {
+      "form": "of",
+      "startCharOffset": 2032,
+      "endCharOffset": 2034
+    },
+    {
+      "form": "233",
+      "startCharOffset": 2035,
+      "endCharOffset": 2038
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2039,
+      "endCharOffset": 2040
+    },
+    {
+      "form": "After",
+      "startCharOffset": 2041,
+      "endCharOffset": 2046
+    },
+    {
+      "form": "the",
+      "startCharOffset": 2047,
+      "endCharOffset": 2050
+    },
+    {
+      "form": "frustration",
+      "startCharOffset": 2051,
+      "endCharOffset": 2062
+    },
+    {
+      "form": "of",
+      "startCharOffset": 2063,
+      "endCharOffset": 2065
+    },
+    {
+      "form": "seeing",
+      "startCharOffset": 2066,
+      "endCharOffset": 2072
+    },
+    {
+      "form": "the",
+      "startCharOffset": 2073,
+      "endCharOffset": 2076
+    },
+    {
+      "form": "opening",
+      "startCharOffset": 2077,
+      "endCharOffset": 2084
+    },
+    {
+      "form": "day",
+      "startCharOffset": 2085,
+      "endCharOffset": 2088
+    },
+    {
+      "form": "of",
+      "startCharOffset": 2089,
+      "endCharOffset": 2091
+    },
+    {
+      "form": "their",
+      "startCharOffset": 2092,
+      "endCharOffset": 2097
+    },
+    {
+      "form": "match",
+      "startCharOffset": 2098,
+      "endCharOffset": 2103
+    },
+    {
+      "form": "badly",
+      "startCharOffset": 2104,
+      "endCharOffset": 2109
+    },
+    {
+      "form": "affected",
+      "startCharOffset": 2110,
+      "endCharOffset": 2118
+    },
+    {
+      "form": "by",
+      "startCharOffset": 2119,
+      "endCharOffset": 2121
+    },
+    {
+      "form": "the",
+      "startCharOffset": 2122,
+      "endCharOffset": 2125
+    },
+    {
+      "form": "weather",
+      "startCharOffset": 2126,
+      "endCharOffset": 2133
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2134,
+      "endCharOffset": 2135
+    },
+    {
+      "form": "Kent",
+      "startCharOffset": 2136,
+      "endCharOffset": 2140
+    },
+    {
+      "form": "stepped",
+      "startCharOffset": 2141,
+      "endCharOffset": 2148
+    },
+    {
+      "form": "up",
+      "startCharOffset": 2149,
+      "endCharOffset": 2151
+    },
+    {
+      "form": "a",
+      "startCharOffset": 2152,
+      "endCharOffset": 2153
+    },
+    {
+      "form": "gear",
+      "startCharOffset": 2154,
+      "endCharOffset": 2158
+    },
+    {
+      "form": "to",
+      "startCharOffset": 2159,
+      "endCharOffset": 2161
+    },
+    {
+      "form": "dismiss",
+      "startCharOffset": 2162,
+      "endCharOffset": 2169
+    },
+    {
+      "form": "Nottinghamshire",
+      "startCharOffset": 2170,
+      "endCharOffset": 2185
+    },
+    {
+      "form": "for",
+      "startCharOffset": 2186,
+      "endCharOffset": 2189
+    },
+    {
+      "form": "214",
+      "startCharOffset": 2190,
+      "endCharOffset": 2193
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2194,
+      "endCharOffset": 2195
+    },
+    {
+      "form": "They",
+      "startCharOffset": 2196,
+      "endCharOffset": 2200
+    },
+    {
+      "form": "were",
+      "startCharOffset": 2201,
+      "endCharOffset": 2205
+    },
+    {
+      "form": "held",
+      "startCharOffset": 2206,
+      "endCharOffset": 2210
+    },
+    {
+      "form": "up",
+      "startCharOffset": 2211,
+      "endCharOffset": 2213
+    },
+    {
+      "form": "by",
+      "startCharOffset": 2214,
+      "endCharOffset": 2216
+    },
+    {
+      "form": "a",
+      "startCharOffset": 2217,
+      "endCharOffset": 2218
+    },
+    {
+      "form": "gritty",
+      "startCharOffset": 2219,
+      "endCharOffset": 2225
+    },
+    {
+      "form": "84",
+      "startCharOffset": 2226,
+      "endCharOffset": 2228
+    },
+    {
+      "form": "from",
+      "startCharOffset": 2229,
+      "endCharOffset": 2233
+    },
+    {
+      "form": "Paul",
+      "startCharOffset": 2234,
+      "endCharOffset": 2238
+    },
+    {
+      "form": "Johnson",
+      "startCharOffset": 2239,
+      "endCharOffset": 2246
+    },
+    {
+      "form": "but",
+      "startCharOffset": 2247,
+      "endCharOffset": 2250
+    },
+    {
+      "form": "ex-England",
+      "startCharOffset": 2251,
+      "endCharOffset": 2261
+    },
+    {
+      "form": "fast",
+      "startCharOffset": 2262,
+      "endCharOffset": 2266
+    },
+    {
+      "form": "bowler",
+      "startCharOffset": 2267,
+      "endCharOffset": 2273
+    },
+    {
+      "form": "Martin",
+      "startCharOffset": 2274,
+      "endCharOffset": 2280
+    },
+    {
+      "form": "McCague",
+      "startCharOffset": 2281,
+      "endCharOffset": 2288
+    },
+    {
+      "form": "took",
+      "startCharOffset": 2289,
+      "endCharOffset": 2293
+    },
+    {
+      "form": "four",
+      "startCharOffset": 2294,
+      "endCharOffset": 2298
+    },
+    {
+      "form": "for",
+      "startCharOffset": 2299,
+      "endCharOffset": 2302
+    },
+    {
+      "form": "55",
+      "startCharOffset": 2303,
+      "endCharOffset": 2305
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2306,
+      "endCharOffset": 2307
+    },
+    {
+      "form": "By",
+      "startCharOffset": 2308,
+      "endCharOffset": 2310
+    },
+    {
+      "form": "stumps",
+      "startCharOffset": 2311,
+      "endCharOffset": 2317
+    },
+    {
+      "form": "Kent",
+      "startCharOffset": 2318,
+      "endCharOffset": 2322
+    },
+    {
+      "form": "had",
+      "startCharOffset": 2323,
+      "endCharOffset": 2326
+    },
+    {
+      "form": "reached",
+      "startCharOffset": 2327,
+      "endCharOffset": 2334
+    },
+    {
+      "form": "108",
+      "startCharOffset": 2335,
+      "endCharOffset": 2338
+    },
+    {
+      "form": "for",
+      "startCharOffset": 2339,
+      "endCharOffset": 2342
+    },
+    {
+      "form": "three",
+      "startCharOffset": 2343,
+      "endCharOffset": 2348
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2349,
+      "endCharOffset": 2350
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      11,
+      13,
+      48,
+      85,
+      123,
+      147,
+      177,
+      211,
+      250,
+      291,
+      316,
+      350,
+      381,
+      409,
+      431,
+      440
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_CONLL",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 13,
+              "end": 15
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 18
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 96,
+              "end": 98
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 116,
+              "end": 118
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 159,
+              "end": 161
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 162,
+              "end": 164
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 256,
+              "end": 258
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 298,
+              "end": 300
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 350,
+              "end": 351
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 351,
+              "end": 353
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 358,
+              "end": 360
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 364,
+              "end": 366
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 370,
+              "end": 371
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 398,
+              "end": 399
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 405,
+              "end": 406
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 418,
+              "end": 420
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 421,
+              "end": 422
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 424,
+              "end": 426
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 433,
+              "end": 434
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 210,
+              "end": 211
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 211,
+              "end": 212
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 212,
+              "end": 213
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 213,
+              "end": 214
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 215,
+              "end": 216
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 217,
+              "end": 218
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 219,
+              "end": 220
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 220,
+              "end": 221
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 222,
+              "end": 223
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 225,
+              "end": 226
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 226,
+              "end": 227
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 227,
+              "end": 228
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 228,
+              "end": 229
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 229,
+              "end": 230
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 231,
+              "end": 232
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 232,
+              "end": 233
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 233,
+              "end": 234
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 234,
+              "end": 235
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 235,
+              "end": 236
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 236,
+              "end": 237
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 238,
+              "end": 239
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 239,
+              "end": 240
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 240,
+              "end": 241
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 241,
+              "end": 242
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 242,
+              "end": 243
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 243,
+              "end": 244
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 244,
+              "end": 245
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 245,
+              "end": 246
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 247,
+              "end": 248
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 248,
+              "end": 249
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 250,
+              "end": 251
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 251,
+              "end": 252
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 253,
+              "end": 254
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 255,
+              "end": 256
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 257,
+              "end": 258
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 258,
+              "end": 259
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 259,
+              "end": 260
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 260,
+              "end": 261
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 261,
+              "end": 262
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 262,
+              "end": 263
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 264,
+              "end": 265
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 265,
+              "end": 266
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 267,
+              "end": 268
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 269,
+              "end": 270
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 271,
+              "end": 272
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 272,
+              "end": 273
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 273,
+              "end": 274
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 277,
+              "end": 278
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 278,
+              "end": 279
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 279,
+              "end": 280
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 280,
+              "end": 281
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 281,
+              "end": 282
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 282,
+              "end": 283
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 283,
+              "end": 284
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 284,
+              "end": 285
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 285,
+              "end": 286
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 286,
+              "end": 287
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 287,
+              "end": 288
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 288,
+              "end": 289
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 290,
+              "end": 291
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 291,
+              "end": 292
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 292,
+              "end": 293
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 293,
+              "end": 294
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 295,
+              "end": 296
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 297,
+              "end": 298
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 299,
+              "end": 300
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 301,
+              "end": 302
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 303,
+              "end": 304
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 305,
+              "end": 306
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 307,
+              "end": 308
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 309,
+              "end": 310
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 311,
+              "end": 312
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 315,
+              "end": 316
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 317,
+              "end": 318
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 319,
+              "end": 320
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 321,
+              "end": 322
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 323,
+              "end": 324
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 325,
+              "end": 326
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 326,
+              "end": 327
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 327,
+              "end": 328
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 328,
+              "end": 329
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 329,
+              "end": 330
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 331,
+              "end": 332
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 332,
+              "end": 333
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 333,
+              "end": 334
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 334,
+              "end": 335
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 335,
+              "end": 336
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 336,
+              "end": 337
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 337,
+              "end": 338
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 338,
+              "end": 339
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 339,
+              "end": 340
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 340,
+              "end": 341
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 341,
+              "end": 342
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 342,
+              "end": 343
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 343,
+              "end": 344
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 344,
+              "end": 345
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 345,
+              "end": 346
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 346,
+              "end": 347
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 347,
+              "end": 348
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 348,
+              "end": 349
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 349,
+              "end": 350
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 350,
+              "end": 351
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 351,
+              "end": 352
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 352,
+              "end": 353
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 353,
+              "end": 354
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 354,
+              "end": 355
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 355,
+              "end": 356
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 356,
+              "end": 357
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 357,
+              "end": 358
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 358,
+              "end": 359
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 359,
+              "end": 360
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 360,
+              "end": 361
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 361,
+              "end": 362
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 362,
+              "end": 363
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 363,
+              "end": 364
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 364,
+              "end": 365
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 365,
+              "end": 366
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 366,
+              "end": 367
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 367,
+              "end": 368
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 368,
+              "end": 369
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 369,
+              "end": 370
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 370,
+              "end": 371
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 371,
+              "end": 372
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 372,
+              "end": 373
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 373,
+              "end": 374
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 374,
+              "end": 375
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 375,
+              "end": 376
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 376,
+              "end": 377
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 377,
+              "end": 378
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 378,
+              "end": 379
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 379,
+              "end": 380
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 380,
+              "end": 381
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 381,
+              "end": 382
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 382,
+              "end": 383
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 383,
+              "end": 384
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 384,
+              "end": 385
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 385,
+              "end": 386
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 386,
+              "end": 387
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 387,
+              "end": 388
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 388,
+              "end": 389
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 389,
+              "end": 390
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 390,
+              "end": 391
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 391,
+              "end": 392
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 392,
+              "end": 393
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 393,
+              "end": 394
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 394,
+              "end": 395
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 395,
+              "end": 396
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 396,
+              "end": 397
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 397,
+              "end": 398
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 398,
+              "end": 399
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 399,
+              "end": 400
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 400,
+              "end": 401
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 401,
+              "end": 402
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 402,
+              "end": 403
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 403,
+              "end": 404
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 404,
+              "end": 405
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 405,
+              "end": 406
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 406,
+              "end": 407
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 407,
+              "end": 408
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 408,
+              "end": 409
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 409,
+              "end": 410
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 410,
+              "end": 411
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 411,
+              "end": 412
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 412,
+              "end": 413
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 413,
+              "end": 414
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 414,
+              "end": 415
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 415,
+              "end": 416
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 416,
+              "end": 417
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 417,
+              "end": 418
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 418,
+              "end": 419
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 419,
+              "end": 420
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 420,
+              "end": 421
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 421,
+              "end": 422
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 422,
+              "end": 423
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 423,
+              "end": 424
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 424,
+              "end": 425
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 425,
+              "end": 426
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 426,
+              "end": 427
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 427,
+              "end": 428
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 428,
+              "end": 429
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 429,
+              "end": 430
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 430,
+              "end": 431
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 431,
+              "end": 432
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 432,
+              "end": 433
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 433,
+              "end": 434
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 434,
+              "end": 435
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 435,
+              "end": 436
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 436,
+              "end": 437
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 437,
+              "end": 438
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 438,
+              "end": 439
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 439,
+              "end": 440
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

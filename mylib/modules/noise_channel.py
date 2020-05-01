@@ -1,5 +1,4 @@
 from torch import nn
-import math
 from torch.nn import Parameter
 import torch
 
@@ -36,38 +35,14 @@ class Channel(nn.Module):
     def forward(self, x):
         # ensure that the weights are probabilities
         channel_matrix = torch.softmax(self.weight, dim=1)
-        #channel_matrix = self.weight
         # ensure that the inputs are probabilities
         # x shape is: (batch_size, max_seq_len, num_classes)
         prob_x = torch.nn.functional.softmax(x, dim=-1)
 
-        #channel_matrix = torch.eye(self.input_dim, self.input_dim).cuda()
-
-
-        # I don't want the shape to change.
-        #
-        # print()
-        # print(x.shape)
-        #print(channel_matrix)
-        #
-        # instance = x[0]
-        # print(instance)
-
-        #torch.matmul(prob_x, channel_matrix)
 
         # multiply together
         return torch.matmul(prob_x, channel_matrix)
 
-
-
     def reset_parameters(self):
-        n = self.input_dim
-        stdv = 1. / math.sqrt(n)
-        #self.weight.data.uniform_(-stdv, stdv)
         self.weight.data = torch.ones(self.input_dim, self.input_dim)
         self.weight.data[:, 0] = 0
-
-        #self.weight.data[:, 1] = 1
-
-        #if self.bias is not None:
-        #    self.bias.data.uniform_(-stdv, stdv)

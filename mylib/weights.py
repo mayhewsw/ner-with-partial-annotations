@@ -40,8 +40,6 @@ def add_weights(data: List[Instance], bstar):
             if tag == "O":
                 neg_freqs += freq
 
-    #gamma = (1-bstar) * tags / (bstar * neg_freqs)
-
     # Normalize in log space
     for w in freqdict:
         freqdict[w] = np.log(freqdict[w] / float(totaltoks))
@@ -53,8 +51,6 @@ def add_weights(data: List[Instance], bstar):
         freqdict[w] = (freqdict[w] - mn) / (mx-mn)
 
     sf = sorted(freqdict.items(), key=lambda p: p[1], reverse=True)
-    #print(sf[:100])
-    #print(sf[-100:])
 
     # now get the frequency of all negative elements
     for inst in data:
@@ -64,7 +60,6 @@ def add_weights(data: List[Instance], bstar):
 
             # this is the window weighting.
             if (i > 0 and tags[i-1] != "O") or (i < (len(tags)-1) and tags[i+1] != "O"):
-                #print(toks[i].text, tags[i], np.exp(inst["tags"][i].array))
                 continue
 
             if tag == "O":
@@ -83,7 +78,4 @@ def add_weights(data: List[Instance], bstar):
 
                 # gotta do this maximum thing to avoid -inf
                 inst["tags"][i].array = np.maximum(np.log(marginals), -10000)
-
-
-            #print(toks[i].text, tags[i], inst["tags"][i].array)
 

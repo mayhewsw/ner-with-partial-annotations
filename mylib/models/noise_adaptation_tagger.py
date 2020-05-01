@@ -5,7 +5,6 @@ from allennlp.data.dataset_readers import Conll2003DatasetReader
 from allennlp.data.iterators import BucketIterator, BasicIterator
 from allennlp.modules.seq2seq_encoders import PytorchSeq2SeqWrapper
 from allennlp.modules.text_field_embedders import BasicTextFieldEmbedder
-from allennlp.predictors import SentenceTaggerPredictor
 from allennlp.training import Trainer
 from overrides import overrides
 import torch
@@ -119,10 +118,6 @@ class SimpleTagger(Model):
         class_probabilities = F.softmax(reshaped_log_probs, dim=-1).view([batch_size,
                                                                           sequence_length,
                                                                           self.num_classes])
-        #print()
-        #print(metadata)
-        #print("cp", class_probabilities)
-        #print(self.tag_projection_layer._module.weight)
 
         new_probs = class_probabilities.new_zeros(class_probabilities.shape)
         for b in range(batch_size):
@@ -142,9 +137,6 @@ class SimpleTagger(Model):
                 final_probs = probs.mm(class_probabilities[b, k].unsqueeze(-1))
                 new_probs[b, k] = final_probs.squeeze(-1)
 
-        #print("np", new_probs)
-        #print(self.noise_adapt_layer)
-        # logits = torch.softmax(logits, dim=-1)
         logits = new_probs
 
         output_dict = {"logits": logits, "class_probabilities": class_probabilities}
@@ -242,7 +234,6 @@ def sequence_cross_entropy_with_probs(logits: torch.FloatTensor,
     # shape : (batch * sequence_length, num_classes)
     logits_flat = logits.view(-1, logits.size(-1))
     # shape : (batch * sequence_length, num_classes)
-    #log_probs_flat = torch.nn.functional.log_softmax(logits_flat, dim=-1)
     log_probs_flat = torch.log(logits_flat)
     # shape : (batch * max_len, 1)
     targets_flat = targets.view(-1, 1).long()
@@ -301,7 +292,7 @@ if __name__ == "__main__":
 
     optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 
-    iterator = BasicIterator(batch_size=1) #BucketIterator(batch_size=2, sorting_keys=[("sentence", "num_tokens")])
+    iterator = BasicIterator(batch_size=1)
 
     iterator.index_with(vocab)
 
@@ -315,29 +306,4 @@ if __name__ == "__main__":
 
     trainer.train()
 
-    # predictor = SentenceTaggerPredictor(model, dataset_reader=reader)
-    #
-    # tag_logits = predictor.predict("The dog ate the apple")['tag_logits']
-    #
-    # tag_ids = numpy.np.argmax(tag_logits, axis=-1)
-    #
-    # print([model.vocab.get_token_from_index(i, 'labels') for i in tag_ids])
-    #
-    # # Here's how to save the model.
-    # with open("/tmp/model.th", 'wb') as f:
-    #     torch.save(model.state_dict(), f)
-    #
-    # vocab.save_to_files("/tmp/vocabulary")
-    #
-    # # And here's how to reload the model.
-    # vocab2 = Vocabulary.from_files("/tmp/vocabulary")
-    #
-    # model2 = SimpleTagger(word_embeddings, lstm, vocab2)
-    #
-    # with open("/tmp/model.th", 'rb') as f:
-    #     model2.load_state_dict(torch.load(f))
-    #
-    # predictor2 = SentenceTaggerPredictor(model2, dataset_reader=reader)
-    # tag_logits2 = predictor2.predict("The dog ate the apple")['tag_logits']
-    # assert tag_logits2 == tag_logits
 

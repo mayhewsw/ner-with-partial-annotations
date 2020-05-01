@@ -11,7 +11,6 @@ from allennlp.modules.token_embedders import Embedding, TokenCharactersEncoder, 
 from allennlp.modules.token_embedders.embedding import _read_pretrained_embeddings_file
 from allennlp.modules.seq2seq_encoders import PytorchSeq2SeqWrapper
 from allennlp.nn import Activation
-import torch.nn.functional as F
 
 from mylib.models.marginal_crf_tagger import MarginalCrfTagger
 from mylib.dataset_readers.textannotation_ner import TextAnnotationDatasetReader
@@ -21,6 +20,10 @@ import numpy as np
 # these are the gold b values for the training datasets (see Table 1 in the paper)
 goldb = {"eng": 0.166, "esp": 0.123, "deu": 0.08, "ned": 0.095, "amh": 0.112, "ara": 0.126, "hin": 0.074, "som": 0.112, "ben": 0.12, "uig": 0.1}
 
+
+# Set these to the desired values!
+USING_BERT = False
+DATA_DIR = "data/"
 
 def get_model(pretrained_file: str, WORD_EMB_DIM: int, vocab: Vocabulary, num_tags: int):
     """
@@ -44,8 +47,7 @@ def get_model(pretrained_file: str, WORD_EMB_DIM: int, vocab: Vocabulary, num_ta
                               conv_layer_activation=Activation.by_name("relu")())
     token_characters_embedding = TokenCharactersEncoder(embedding=char_embedding, encoder=char_encoder)
 
-    using_bert = False
-    if using_bert:
+    if USING_BERT:
         print("USING BERT EMBEDDINGS")
         bert_emb = PretrainedBertEmbedder("bert-base-multilingual-cased")
         tfe = BasicTextFieldEmbedder({"bert": bert_emb, "token_characters": token_characters_embedding},
@@ -112,22 +114,26 @@ def get_stats(dataset: List[Instance]):
 def get_data(lang: str, recall: int = 1.0):
 
     if lang == "eng":
-        pretrained_file = "/scratch/mayhew/embeddings/glove.6B.50d.txt"
+        # https://nlp.stanford.edu/projects/glove/
+        pretrained_file = "/path/to/embeddings/glove.6B.50d.txt"
         WORD_EMB_DIM = 50
         lower_tokens = True
         labels = ["PER", "ORG", "LOC", "MISC"]
     elif lang == "esp":
-        pretrained_file = "/scratch/mayhew/embeddings/esp64"
+        # https://github.com/glample/tagger/issues/44
+        pretrained_file = "/path/to/embeddings/esp64"
         WORD_EMB_DIM = 64
         lower_tokens = False
         labels = ["PER", "ORG", "LOC", "MISC"]
     elif lang == "ned":
-        pretrained_file = "/scratch/mayhew/embeddings/ned64"
+        # https://github.com/glample/tagger/issues/44
+        pretrained_file = "/path/to/embeddings/ned64"
         WORD_EMB_DIM = 64
         lower_tokens = False
         labels = ["PER", "ORG", "LOC", "MISC"]
     elif lang == "deu":
-        pretrained_file = "/scratch/mayhew/embeddings/deu64"
+        # https://github.com/glample/tagger/issues/44
+        pretrained_file = "/path/to/embeddings/deu64"
         WORD_EMB_DIM = 64
         lower_tokens = False
         labels = ["PER", "ORG", "LOC", "MISC"]
@@ -138,9 +144,8 @@ def get_data(lang: str, recall: int = 1.0):
                 "token_characters": TokenCharactersIndexer(min_padding_length=3),
                 }
 
-    using_bert = False
-    if using_bert:
-        indexers["bert"] = PretrainedBertIndexer("bert-base-multilingual-cased")
+    if USING_BERT:
+        indexers["bert"] = PretrainedBertIndexer("bert-base-multilingual-cased", do_lowercase=False)
 
     reader = TextAnnotationDatasetReader(coding_scheme="BIOUL", token_indexers=indexers,
                                          strategy="trust_labels", recall=recall, labelset=labels)
@@ -149,14 +154,12 @@ def get_data(lang: str, recall: int = 1.0):
     validation_reader = TextAnnotationDatasetReader(coding_scheme="BIOUL", token_indexers=indexers,
                                                     strategy="trust_labels", labelset=labels)
 
-    data_dir = "/mnt/castor/seas_home/m/mayhew/IdeaProjects/nerwithpr/data/"
-
     if recall == 1:
-        train_dataset = reader.read(cached_path(data_dir + "{}/Trainp0.9r0.5".format(lang)))
+        train_dataset = reader.read(cached_path(DATA_DIR + "{}/Trainp0.9r0.5".format(lang)))
     else:
-        train_dataset = reader.read(cached_path(data_dir + "{}/Train".format(lang)))
-    validation_dataset = validation_reader.read(cached_path(data_dir + "{}/Dev".format(lang)))
-    test_dataset = validation_reader.read(cached_path(data_dir + "{}/Test".format(lang)))
+        train_dataset = reader.read(cached_path(DATA_DIR + "{}/Train".format(lang)))
+    validation_dataset = validation_reader.read(cached_path(DATA_DIR + "{}/Dev".format(lang)))
+    test_dataset = validation_reader.read(cached_path(DATA_DIR + "{}/Test".format(lang)))
 
     all_insts = train_dataset + validation_dataset + test_dataset
     vocab = Vocabulary.from_instances(all_insts)
@@ -179,20 +182,19 @@ def get_data_binary(lang: str, recall: int = 1.0):
 
     # TODO: these are either Glove embeddings, or the embeddings from Lample et al.
     if lang == "eng":
-        pretrained_file = "/scratch/mayhew/embeddings/glove.6B.50d.txt"
+        pretrained_file = "/path/to/embeddings/glove.6B.50d.txt"
         WORD_EMB_DIM = 50
         lower_tokens = True
-
     elif lang == "esp":
-        pretrained_file = "/scratch/mayhew/embeddings/esp64"
+        pretrained_file = "/path/to/embeddings/esp64"
         WORD_EMB_DIM = 64
         lower_tokens = False
     elif lang == "ned":
-        pretrained_file = "/scratch/mayhew/embeddings/ned64"
+        pretrained_file = "/path/to/embeddings/ned64"
         WORD_EMB_DIM = 64
         lower_tokens = False
     elif lang == "deu":
-        pretrained_file = "/scratch/mayhew/embeddings/deu64"
+        pretrained_file = "/path/to/embeddings/deu64"
         WORD_EMB_DIM = 64
         lower_tokens = False
     else:
@@ -204,7 +206,7 @@ def get_data_binary(lang: str, recall: int = 1.0):
 
     using_bert = False
     if using_bert:
-        indexers["bert"] = PretrainedBertIndexer("bert-base-multilingual-cased")
+        indexers["bert"] = PretrainedBertIndexer("bert-base-multilingual-cased", do_lowercase=False)
 
     reader = TextAnnotationDatasetReader(coding_scheme=coding_scheme, token_indexers=indexers,
                                          strategy="trust_labels", recall=recall, labelset=labels)
@@ -213,22 +215,20 @@ def get_data_binary(lang: str, recall: int = 1.0):
     validation_reader = TextAnnotationDatasetReader(coding_scheme=coding_scheme, token_indexers=indexers,
                                                     strategy="trust_labels", labelset=labels)
 
-    # TODO: set this to location of the data provided.
-    data_dir = "/mnt/castor/seas_home/m/mayhew/IdeaProjects/nerwithpr/data/"
-
     if recall == 1:
-        train_dataset = reader.read(cached_path(data_dir + "{}/Trainp0.9r0.5".format(lang)))
+        train_dataset = reader.read(cached_path(DATA_DIR + "{}/Trainp0.9r0.5".format(lang)))
     else:
-        train_dataset = reader.read(cached_path(data_dir + "{}/Train".format(lang)))
-    validation_dataset = validation_reader.read(cached_path(data_dir + "{}/Dev".format(lang)))
-    test_dataset = validation_reader.read(cached_path(data_dir + "{}/Test".format(lang)))
+        train_dataset = reader.read(cached_path(DATA_DIR + "{}/Train".format(lang)))
+    validation_dataset = validation_reader.read(cached_path(DATA_DIR + "{}/Dev".format(lang)))
+    test_dataset = validation_reader.read(cached_path(DATA_DIR + "{}/Test".format(lang)))
 
     all_insts = train_dataset + validation_dataset + test_dataset
     vocab = Vocabulary.from_instances(all_insts)
 
-    # The following is a hack because we need
+    # The following is a hack
     del vocab._token_to_index["labels"]
     del vocab._index_to_token["labels"]
+
     for k in reader.alltags:
         vocab.add_token_to_namespace(k, "labels")
     print(vocab.get_token_to_index_vocabulary("labels"))

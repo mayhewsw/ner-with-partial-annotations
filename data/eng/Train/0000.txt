@@ -1,0 +1,5979 @@
+{
+  "corpusId": "",
+  "id": "0000.txt",
+  "text": "EU rejects German call to boycott British lamb . Peter Blackburn BRUSSELS 1996-08-22 The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep . Germany \u0027s representative to the European Union \u0027s veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer . \" We do n\u0027t support any such recommendation because we do n\u0027t see any grounds for it , \" the Commission \u0027s chief spokesman Nikolaus van der Pas told a news briefing . He said further scientific study was required and if it was found that action was needed it should be taken by the European Union . He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health . Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease . But Fischler agreed to review his proposal after the EU \u0027s standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health . Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers \u0027 meeting of causing unjustified alarm through \" dangerous generalisation . \" . Only France and Britain backed Fischler \u0027s proposal . The EU \u0027s scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials . Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste . British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe . \" What we have to be extremely careful of is how other countries are going to take Germany \u0027s lead , \" Welsh National Farmers \u0027 Union ( NFU ) chairman John Lloyd Jones said on BBC radio . Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef . Germany imported 47,600 sheep from Britain last year , nearly half of total imports . It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .\n",
+  "tokens": [
+    "EU",
+    "rejects",
+    "German",
+    "call",
+    "to",
+    "boycott",
+    "British",
+    "lamb",
+    ".",
+    "Peter",
+    "Blackburn",
+    "BRUSSELS",
+    "1996-08-22",
+    "The",
+    "European",
+    "Commission",
+    "said",
+    "on",
+    "Thursday",
+    "it",
+    "disagreed",
+    "with",
+    "German",
+    "advice",
+    "to",
+    "consumers",
+    "to",
+    "shun",
+    "British",
+    "lamb",
+    "until",
+    "scientists",
+    "determine",
+    "whether",
+    "mad",
+    "cow",
+    "disease",
+    "can",
+    "be",
+    "transmitted",
+    "to",
+    "sheep",
+    ".",
+    "Germany",
+    "\u0027s",
+    "representative",
+    "to",
+    "the",
+    "European",
+    "Union",
+    "\u0027s",
+    "veterinary",
+    "committee",
+    "Werner",
+    "Zwingmann",
+    "said",
+    "on",
+    "Wednesday",
+    "consumers",
+    "should",
+    "buy",
+    "sheepmeat",
+    "from",
+    "countries",
+    "other",
+    "than",
+    "Britain",
+    "until",
+    "the",
+    "scientific",
+    "advice",
+    "was",
+    "clearer",
+    ".",
+    "\"",
+    "We",
+    "do",
+    "n\u0027t",
+    "support",
+    "any",
+    "such",
+    "recommendation",
+    "because",
+    "we",
+    "do",
+    "n\u0027t",
+    "see",
+    "any",
+    "grounds",
+    "for",
+    "it",
+    ",",
+    "\"",
+    "the",
+    "Commission",
+    "\u0027s",
+    "chief",
+    "spokesman",
+    "Nikolaus",
+    "van",
+    "der",
+    "Pas",
+    "told",
+    "a",
+    "news",
+    "briefing",
+    ".",
+    "He",
+    "said",
+    "further",
+    "scientific",
+    "study",
+    "was",
+    "required",
+    "and",
+    "if",
+    "it",
+    "was",
+    "found",
+    "that",
+    "action",
+    "was",
+    "needed",
+    "it",
+    "should",
+    "be",
+    "taken",
+    "by",
+    "the",
+    "European",
+    "Union",
+    ".",
+    "He",
+    "said",
+    "a",
+    "proposal",
+    "last",
+    "month",
+    "by",
+    "EU",
+    "Farm",
+    "Commissioner",
+    "Franz",
+    "Fischler",
+    "to",
+    "ban",
+    "sheep",
+    "brains",
+    ",",
+    "spleens",
+    "and",
+    "spinal",
+    "cords",
+    "from",
+    "the",
+    "human",
+    "and",
+    "animal",
+    "food",
+    "chains",
+    "was",
+    "a",
+    "highly",
+    "specific",
+    "and",
+    "precautionary",
+    "move",
+    "to",
+    "protect",
+    "human",
+    "health",
+    ".",
+    "Fischler",
+    "proposed",
+    "EU-wide",
+    "measures",
+    "after",
+    "reports",
+    "from",
+    "Britain",
+    "and",
+    "France",
+    "that",
+    "under",
+    "laboratory",
+    "conditions",
+    "sheep",
+    "could",
+    "contract",
+    "Bovine",
+    "Spongiform",
+    "Encephalopathy",
+    "(",
+    "BSE",
+    ")",
+    "--",
+    "mad",
+    "cow",
+    "disease",
+    ".",
+    "But",
+    "Fischler",
+    "agreed",
+    "to",
+    "review",
+    "his",
+    "proposal",
+    "after",
+    "the",
+    "EU",
+    "\u0027s",
+    "standing",
+    "veterinary",
+    "committee",
+    ",",
+    "mational",
+    "animal",
+    "health",
+    "officials",
+    ",",
+    "questioned",
+    "if",
+    "such",
+    "action",
+    "was",
+    "justified",
+    "as",
+    "there",
+    "was",
+    "only",
+    "a",
+    "slight",
+    "risk",
+    "to",
+    "human",
+    "health",
+    ".",
+    "Spanish",
+    "Farm",
+    "Minister",
+    "Loyola",
+    "de",
+    "Palacio",
+    "had",
+    "earlier",
+    "accused",
+    "Fischler",
+    "at",
+    "an",
+    "EU",
+    "farm",
+    "ministers",
+    "\u0027",
+    "meeting",
+    "of",
+    "causing",
+    "unjustified",
+    "alarm",
+    "through",
+    "\"",
+    "dangerous",
+    "generalisation",
+    ".",
+    "\"",
+    ".",
+    "Only",
+    "France",
+    "and",
+    "Britain",
+    "backed",
+    "Fischler",
+    "\u0027s",
+    "proposal",
+    ".",
+    "The",
+    "EU",
+    "\u0027s",
+    "scientific",
+    "veterinary",
+    "and",
+    "multidisciplinary",
+    "committees",
+    "are",
+    "due",
+    "to",
+    "re-examine",
+    "the",
+    "issue",
+    "early",
+    "next",
+    "month",
+    "and",
+    "make",
+    "recommendations",
+    "to",
+    "the",
+    "senior",
+    "veterinary",
+    "officials",
+    ".",
+    "Sheep",
+    "have",
+    "long",
+    "been",
+    "known",
+    "to",
+    "contract",
+    "scrapie",
+    ",",
+    "a",
+    "brain-wasting",
+    "disease",
+    "similar",
+    "to",
+    "BSE",
+    "which",
+    "is",
+    "believed",
+    "to",
+    "have",
+    "been",
+    "transferred",
+    "to",
+    "cattle",
+    "through",
+    "feed",
+    "containing",
+    "animal",
+    "waste",
+    ".",
+    "British",
+    "farmers",
+    "denied",
+    "on",
+    "Thursday",
+    "there",
+    "was",
+    "any",
+    "danger",
+    "to",
+    "human",
+    "health",
+    "from",
+    "their",
+    "sheep",
+    ",",
+    "but",
+    "expressed",
+    "concern",
+    "that",
+    "German",
+    "government",
+    "advice",
+    "to",
+    "consumers",
+    "to",
+    "avoid",
+    "British",
+    "lamb",
+    "might",
+    "influence",
+    "consumers",
+    "across",
+    "Europe",
+    ".",
+    "\"",
+    "What",
+    "we",
+    "have",
+    "to",
+    "be",
+    "extremely",
+    "careful",
+    "of",
+    "is",
+    "how",
+    "other",
+    "countries",
+    "are",
+    "going",
+    "to",
+    "take",
+    "Germany",
+    "\u0027s",
+    "lead",
+    ",",
+    "\"",
+    "Welsh",
+    "National",
+    "Farmers",
+    "\u0027",
+    "Union",
+    "(",
+    "NFU",
+    ")",
+    "chairman",
+    "John",
+    "Lloyd",
+    "Jones",
+    "said",
+    "on",
+    "BBC",
+    "radio",
+    ".",
+    "Bonn",
+    "has",
+    "led",
+    "efforts",
+    "to",
+    "protect",
+    "public",
+    "health",
+    "after",
+    "consumer",
+    "confidence",
+    "collapsed",
+    "in",
+    "March",
+    "after",
+    "a",
+    "British",
+    "report",
+    "suggested",
+    "humans",
+    "could",
+    "contract",
+    "an",
+    "illness",
+    "similar",
+    "to",
+    "mad",
+    "cow",
+    "disease",
+    "by",
+    "eating",
+    "contaminated",
+    "beef",
+    ".",
+    "Germany",
+    "imported",
+    "47,600",
+    "sheep",
+    "from",
+    "Britain",
+    "last",
+    "year",
+    ",",
+    "nearly",
+    "half",
+    "of",
+    "total",
+    "imports",
+    ".",
+    "It",
+    "brought",
+    "in",
+    "4,275",
+    "tonnes",
+    "of",
+    "British",
+    "mutton",
+    ",",
+    "some",
+    "10",
+    "percent",
+    "of",
+    "overall",
+    "imports",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "EU",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "rejects",
+      "startCharOffset": 3,
+      "endCharOffset": 10
+    },
+    {
+      "form": "German",
+      "startCharOffset": 11,
+      "endCharOffset": 17
+    },
+    {
+      "form": "call",
+      "startCharOffset": 18,
+      "endCharOffset": 22
+    },
+    {
+      "form": "to",
+      "startCharOffset": 23,
+      "endCharOffset": 25
+    },
+    {
+      "form": "boycott",
+      "startCharOffset": 26,
+      "endCharOffset": 33
+    },
+    {
+      "form": "British",
+      "startCharOffset": 34,
+      "endCharOffset": 41
+    },
+    {
+      "form": "lamb",
+      "startCharOffset": 42,
+      "endCharOffset": 46
+    },
+    {
+      "form": ".",
+      "startCharOffset": 47,
+      "endCharOffset": 48
+    },
+    {
+      "form": "Peter",
+      "startCharOffset": 49,
+      "endCharOffset": 54
+    },
+    {
+      "form": "Blackburn",
+      "startCharOffset": 55,
+      "endCharOffset": 64
+    },
+    {
+      "form": "BRUSSELS",
+      "startCharOffset": 65,
+      "endCharOffset": 73
+    },
+    {
+      "form": "1996-08-22",
+      "startCharOffset": 74,
+      "endCharOffset": 84
+    },
+    {
+      "form": "The",
+      "startCharOffset": 85,
+      "endCharOffset": 88
+    },
+    {
+      "form": "European",
+      "startCharOffset": 89,
+      "endCharOffset": 97
+    },
+    {
+      "form": "Commission",
+      "startCharOffset": 98,
+      "endCharOffset": 108
+    },
+    {
+      "form": "said",
+      "startCharOffset": 109,
+      "endCharOffset": 113
+    },
+    {
+      "form": "on",
+      "startCharOffset": 114,
+      "endCharOffset": 116
+    },
+    {
+      "form": "Thursday",
+      "startCharOffset": 117,
+      "endCharOffset": 125
+    },
+    {
+      "form": "it",
+      "startCharOffset": 126,
+      "endCharOffset": 128
+    },
+    {
+      "form": "disagreed",
+      "startCharOffset": 129,
+      "endCharOffset": 138
+    },
+    {
+      "form": "with",
+      "startCharOffset": 139,
+      "endCharOffset": 143
+    },
+    {
+      "form": "German",
+      "startCharOffset": 144,
+      "endCharOffset": 150
+    },
+    {
+      "form": "advice",
+      "startCharOffset": 151,
+      "endCharOffset": 157
+    },
+    {
+      "form": "to",
+      "startCharOffset": 158,
+      "endCharOffset": 160
+    },
+    {
+      "form": "consumers",
+      "startCharOffset": 161,
+      "endCharOffset": 170
+    },
+    {
+      "form": "to",
+      "startCharOffset": 171,
+      "endCharOffset": 173
+    },
+    {
+      "form": "shun",
+      "startCharOffset": 174,
+      "endCharOffset": 178
+    },
+    {
+      "form": "British",
+      "startCharOffset": 179,
+      "endCharOffset": 186
+    },
+    {
+      "form": "lamb",
+      "startCharOffset": 187,
+      "endCharOffset": 191
+    },
+    {
+      "form": "until",
+      "startCharOffset": 192,
+      "endCharOffset": 197
+    },
+    {
+      "form": "scientists",
+      "startCharOffset": 198,
+      "endCharOffset": 208
+    },
+    {
+      "form": "determine",
+      "startCharOffset": 209,
+      "endCharOffset": 218
+    },
+    {
+      "form": "whether",
+      "startCharOffset": 219,
+      "endCharOffset": 226
+    },
+    {
+      "form": "mad",
+      "startCharOffset": 227,
+      "endCharOffset": 230
+    },
+    {
+      "form": "cow",
+      "startCharOffset": 231,
+      "endCharOffset": 234
+    },
+    {
+      "form": "disease",
+      "startCharOffset": 235,
+      "endCharOffset": 242
+    },
+    {
+      "form": "can",
+      "startCharOffset": 243,
+      "endCharOffset": 246
+    },
+    {
+      "form": "be",
+      "startCharOffset": 247,
+      "endCharOffset": 249
+    },
+    {
+      "form": "transmitted",
+      "startCharOffset": 250,
+      "endCharOffset": 261
+    },
+    {
+      "form": "to",
+      "startCharOffset": 262,
+      "endCharOffset": 264
+    },
+    {
+      "form": "sheep",
+      "startCharOffset": 265,
+      "endCharOffset": 270
+    },
+    {
+      "form": ".",
+      "startCharOffset": 271,
+      "endCharOffset": 272
+    },
+    {
+      "form": "Germany",
+      "startCharOffset": 273,
+      "endCharOffset": 280
+    },
+    {
+      "form": "\u0027s",
+      "startCharOffset": 281,
+      "endCharOffset": 283
+    },
+    {
+      "form": "representative",
+      "startCharOffset": 284,
+      "endCharOffset": 298
+    },
+    {
+      "form": "to",
+      "startCharOffset": 299,
+      "endCharOffset": 301
+    },
+    {
+      "form": "the",
+      "startCharOffset": 302,
+      "endCharOffset": 305
+    },
+    {
+      "form": "European",
+      "startCharOffset": 306,
+      "endCharOffset": 314
+    },
+    {
+      "form": "Union",
+      "startCharOffset": 315,
+      "endCharOffset": 320
+    },
+    {
+      "form": "\u0027s",
+      "startCharOffset": 321,
+      "endCharOffset": 323
+    },
+    {
+      "form": "veterinary",
+      "startCharOffset": 324,
+      "endCharOffset": 334
+    },
+    {
+      "form": "committee",
+      "startCharOffset": 335,
+      "endCharOffset": 344
+    },
+    {
+      "form": "Werner",
+      "startCharOffset": 345,
+      "endCharOffset": 351
+    },
+    {
+      "form": "Zwingmann",
+      "startCharOffset": 352,
+      "endCharOffset": 361
+    },
+    {
+      "form": "said",
+      "startCharOffset": 362,
+      "endCharOffset": 366
+    },
+    {
+      "form": "on",
+      "startCharOffset": 367,
+      "endCharOffset": 369
+    },
+    {
+      "form": "Wednesday",
+      "startCharOffset": 370,
+      "endCharOffset": 379
+    },
+    {
+      "form": "consumers",
+      "startCharOffset": 380,
+      "endCharOffset": 389
+    },
+    {
+      "form": "should",
+      "startCharOffset": 390,
+      "endCharOffset": 396
+    },
+    {
+      "form": "buy",
+      "startCharOffset": 397,
+      "endCharOffset": 400
+    },
+    {
+      "form": "sheepmeat",
+      "startCharOffset": 401,
+      "endCharOffset": 410
+    },
+    {
+      "form": "from",
+      "startCharOffset": 411,
+      "endCharOffset": 415
+    },
+    {
+      "form": "countries",
+      "startCharOffset": 416,
+      "endCharOffset": 425
+    },
+    {
+      "form": "other",
+      "startCharOffset": 426,
+      "endCharOffset": 431
+    },
+    {
+      "form": "than",
+      "startCharOffset": 432,
+      "endCharOffset": 436
+    },
+    {
+      "form": "Britain",
+      "startCharOffset": 437,
+      "endCharOffset": 444
+    },
+    {
+      "form": "until",
+      "startCharOffset": 445,
+      "endCharOffset": 450
+    },
+    {
+      "form": "the",
+      "startCharOffset": 451,
+      "endCharOffset": 454
+    },
+    {
+      "form": "scientific",
+      "startCharOffset": 455,
+      "endCharOffset": 465
+    },
+    {
+      "form": "advice",
+      "startCharOffset": 466,
+      "endCharOffset": 472
+    },
+    {
+      "form": "was",
+      "startCharOffset": 473,
+      "endCharOffset": 476
+    },
+    {
+      "form": "clearer",
+      "startCharOffset": 477,
+      "endCharOffset": 484
+    },
+    {
+      "form": ".",
+      "startCharOffset": 485,
+      "endCharOffset": 486
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 487,
+      "endCharOffset": 488
+    },
+    {
+      "form": "We",
+      "startCharOffset": 489,
+      "endCharOffset": 491
+    },
+    {
+      "form": "do",
+      "startCharOffset": 492,
+      "endCharOffset": 494
+    },
+    {
+      "form": "n\u0027t",
+      "startCharOffset": 495,
+      "endCharOffset": 498
+    },
+    {
+      "form": "support",
+      "startCharOffset": 499,
+      "endCharOffset": 506
+    },
+    {
+      "form": "any",
+      "startCharOffset": 507,
+      "endCharOffset": 510
+    },
+    {
+      "form": "such",
+      "startCharOffset": 511,
+      "endCharOffset": 515
+    },
+    {
+      "form": "recommendation",
+      "startCharOffset": 516,
+      "endCharOffset": 530
+    },
+    {
+      "form": "because",
+      "startCharOffset": 531,
+      "endCharOffset": 538
+    },
+    {
+      "form": "we",
+      "startCharOffset": 539,
+      "endCharOffset": 541
+    },
+    {
+      "form": "do",
+      "startCharOffset": 542,
+      "endCharOffset": 544
+    },
+    {
+      "form": "n\u0027t",
+      "startCharOffset": 545,
+      "endCharOffset": 548
+    },
+    {
+      "form": "see",
+      "startCharOffset": 549,
+      "endCharOffset": 552
+    },
+    {
+      "form": "any",
+      "startCharOffset": 553,
+      "endCharOffset": 556
+    },
+    {
+      "form": "grounds",
+      "startCharOffset": 557,
+      "endCharOffset": 564
+    },
+    {
+      "form": "for",
+      "startCharOffset": 565,
+      "endCharOffset": 568
+    },
+    {
+      "form": "it",
+      "startCharOffset": 569,
+      "endCharOffset": 571
+    },
+    {
+      "form": ",",
+      "startCharOffset": 572,
+      "endCharOffset": 573
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 574,
+      "endCharOffset": 575
+    },
+    {
+      "form": "the",
+      "startCharOffset": 576,
+      "endCharOffset": 579
+    },
+    {
+      "form": "Commission",
+      "startCharOffset": 580,
+      "endCharOffset": 590
+    },
+    {
+      "form": "\u0027s",
+      "startCharOffset": 591,
+      "endCharOffset": 593
+    },
+    {
+      "form": "chief",
+      "startCharOffset": 594,
+      "endCharOffset": 599
+    },
+    {
+      "form": "spokesman",
+      "startCharOffset": 600,
+      "endCharOffset": 609
+    },
+    {
+      "form": "Nikolaus",
+      "startCharOffset": 610,
+      "endCharOffset": 618
+    },
+    {
+      "form": "van",
+      "startCharOffset": 619,
+      "endCharOffset": 622
+    },
+    {
+      "form": "der",
+      "startCharOffset": 623,
+      "endCharOffset": 626
+    },
+    {
+      "form": "Pas",
+      "startCharOffset": 627,
+      "endCharOffset": 630
+    },
+    {
+      "form": "told",
+      "startCharOffset": 631,
+      "endCharOffset": 635
+    },
+    {
+      "form": "a",
+      "startCharOffset": 636,
+      "endCharOffset": 637
+    },
+    {
+      "form": "news",
+      "startCharOffset": 638,
+      "endCharOffset": 642
+    },
+    {
+      "form": "briefing",
+      "startCharOffset": 643,
+      "endCharOffset": 651
+    },
+    {
+      "form": ".",
+      "startCharOffset": 652,
+      "endCharOffset": 653
+    },
+    {
+      "form": "He",
+      "startCharOffset": 654,
+      "endCharOffset": 656
+    },
+    {
+      "form": "said",
+      "startCharOffset": 657,
+      "endCharOffset": 661
+    },
+    {
+      "form": "further",
+      "startCharOffset": 662,
+      "endCharOffset": 669
+    },
+    {
+      "form": "scientific",
+      "startCharOffset": 670,
+      "endCharOffset": 680
+    },
+    {
+      "form": "study",
+      "startCharOffset": 681,
+      "endCharOffset": 686
+    },
+    {
+      "form": "was",
+      "startCharOffset": 687,
+      "endCharOffset": 690
+    },
+    {
+      "form": "required",
+      "startCharOffset": 691,
+      "endCharOffset": 699
+    },
+    {
+      "form": "and",
+      "startCharOffset": 700,
+      "endCharOffset": 703
+    },
+    {
+      "form": "if",
+      "startCharOffset": 704,
+      "endCharOffset": 706
+    },
+    {
+      "form": "it",
+      "startCharOffset": 707,
+      "endCharOffset": 709
+    },
+    {
+      "form": "was",
+      "startCharOffset": 710,
+      "endCharOffset": 713
+    },
+    {
+      "form": "found",
+      "startCharOffset": 714,
+      "endCharOffset": 719
+    },
+    {
+      "form": "that",
+      "startCharOffset": 720,
+      "endCharOffset": 724
+    },
+    {
+      "form": "action",
+      "startCharOffset": 725,
+      "endCharOffset": 731
+    },
+    {
+      "form": "was",
+      "startCharOffset": 732,
+      "endCharOffset": 735
+    },
+    {
+      "form": "needed",
+      "startCharOffset": 736,
+      "endCharOffset": 742
+    },
+    {
+      "form": "it",
+      "startCharOffset": 743,
+      "endCharOffset": 745
+    },
+    {
+      "form": "should",
+      "startCharOffset": 746,
+      "endCharOffset": 752
+    },
+    {
+      "form": "be",
+      "startCharOffset": 753,
+      "endCharOffset": 755
+    },
+    {
+      "form": "taken",
+      "startCharOffset": 756,
+      "endCharOffset": 761
+    },
+    {
+      "form": "by",
+      "startCharOffset": 762,
+      "endCharOffset": 764
+    },
+    {
+      "form": "the",
+      "startCharOffset": 765,
+      "endCharOffset": 768
+    },
+    {
+      "form": "European",
+      "startCharOffset": 769,
+      "endCharOffset": 777
+    },
+    {
+      "form": "Union",
+      "startCharOffset": 778,
+      "endCharOffset": 783
+    },
+    {
+      "form": ".",
+      "startCharOffset": 784,
+      "endCharOffset": 785
+    },
+    {
+      "form": "He",
+      "startCharOffset": 786,
+      "endCharOffset": 788
+    },
+    {
+      "form": "said",
+      "startCharOffset": 789,
+      "endCharOffset": 793
+    },
+    {
+      "form": "a",
+      "startCharOffset": 794,
+      "endCharOffset": 795
+    },
+    {
+      "form": "proposal",
+      "startCharOffset": 796,
+      "endCharOffset": 804
+    },
+    {
+      "form": "last",
+      "startCharOffset": 805,
+      "endCharOffset": 809
+    },
+    {
+      "form": "month",
+      "startCharOffset": 810,
+      "endCharOffset": 815
+    },
+    {
+      "form": "by",
+      "startCharOffset": 816,
+      "endCharOffset": 818
+    },
+    {
+      "form": "EU",
+      "startCharOffset": 819,
+      "endCharOffset": 821
+    },
+    {
+      "form": "Farm",
+      "startCharOffset": 822,
+      "endCharOffset": 826
+    },
+    {
+      "form": "Commissioner",
+      "startCharOffset": 827,
+      "endCharOffset": 839
+    },
+    {
+      "form": "Franz",
+      "startCharOffset": 840,
+      "endCharOffset": 845
+    },
+    {
+      "form": "Fischler",
+      "startCharOffset": 846,
+      "endCharOffset": 854
+    },
+    {
+      "form": "to",
+      "startCharOffset": 855,
+      "endCharOffset": 857
+    },
+    {
+      "form": "ban",
+      "startCharOffset": 858,
+      "endCharOffset": 861
+    },
+    {
+      "form": "sheep",
+      "startCharOffset": 862,
+      "endCharOffset": 867
+    },
+    {
+      "form": "brains",
+      "startCharOffset": 868,
+      "endCharOffset": 874
+    },
+    {
+      "form": ",",
+      "startCharOffset": 875,
+      "endCharOffset": 876
+    },
+    {
+      "form": "spleens",
+      "startCharOffset": 877,
+      "endCharOffset": 884
+    },
+    {
+      "form": "and",
+      "startCharOffset": 885,
+      "endCharOffset": 888
+    },
+    {
+      "form": "spinal",
+      "startCharOffset": 889,
+      "endCharOffset": 895
+    },
+    {
+      "form": "cords",
+      "startCharOffset": 896,
+      "endCharOffset": 901
+    },
+    {
+      "form": "from",
+      "startCharOffset": 902,
+      "endCharOffset": 906
+    },
+    {
+      "form": "the",
+      "startCharOffset": 907,
+      "endCharOffset": 910
+    },
+    {
+      "form": "human",
+      "startCharOffset": 911,
+      "endCharOffset": 916
+    },
+    {
+      "form": "and",
+      "startCharOffset": 917,
+      "endCharOffset": 920
+    },
+    {
+      "form": "animal",
+      "startCharOffset": 921,
+      "endCharOffset": 927
+    },
+    {
+      "form": "food",
+      "startCharOffset": 928,
+      "endCharOffset": 932
+    },
+    {
+      "form": "chains",
+      "startCharOffset": 933,
+      "endCharOffset": 939
+    },
+    {
+      "form": "was",
+      "startCharOffset": 940,
+      "endCharOffset": 943
+    },
+    {
+      "form": "a",
+      "startCharOffset": 944,
+      "endCharOffset": 945
+    },
+    {
+      "form": "highly",
+      "startCharOffset": 946,
+      "endCharOffset": 952
+    },
+    {
+      "form": "specific",
+      "startCharOffset": 953,
+      "endCharOffset": 961
+    },
+    {
+      "form": "and",
+      "startCharOffset": 962,
+      "endCharOffset": 965
+    },
+    {
+      "form": "precautionary",
+      "startCharOffset": 966,
+      "endCharOffset": 979
+    },
+    {
+      "form": "move",
+      "startCharOffset": 980,
+      "endCharOffset": 984
+    },
+    {
+      "form": "to",
+      "startCharOffset": 985,
+      "endCharOffset": 987
+    },
+    {
+      "form": "protect",
+      "startCharOffset": 988,
+      "endCharOffset": 995
+    },
+    {
+      "form": "human",
+      "startCharOffset": 996,
+      "endCharOffset": 1001
+    },
+    {
+      "form": "health",
+      "startCharOffset": 1002,
+      "endCharOffset": 1008
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1009,
+      "endCharOffset": 1010
+    },
+    {
+      "form": "Fischler",
+      "startCharOffset": 1011,
+      "endCharOffset": 1019
+    },
+    {
+      "form": "proposed",
+      "startCharOffset": 1020,
+      "endCharOffset": 1028
+    },
+    {
+      "form": "EU-wide",
+      "startCharOffset": 1029,
+      "endCharOffset": 1036
+    },
+    {
+      "form": "measures",
+      "startCharOffset": 1037,
+      "endCharOffset": 1045
+    },
+    {
+      "form": "after",
+      "startCharOffset": 1046,
+      "endCharOffset": 1051
+    },
+    {
+      "form": "reports",
+      "startCharOffset": 1052,
+      "endCharOffset": 1059
+    },
+    {
+      "form": "from",
+      "startCharOffset": 1060,
+      "endCharOffset": 1064
+    },
+    {
+      "form": "Britain",
+      "startCharOffset": 1065,
+      "endCharOffset": 1072
+    },
+    {
+      "form": "and",
+      "startCharOffset": 1073,
+      "endCharOffset": 1076
+    },
+    {
+      "form": "France",
+      "startCharOffset": 1077,
+      "endCharOffset": 1083
+    },
+    {
+      "form": "that",
+      "startCharOffset": 1084,
+      "endCharOffset": 1088
+    },
+    {
+      "form": "under",
+      "startCharOffset": 1089,
+      "endCharOffset": 1094
+    },
+    {
+      "form": "laboratory",
+      "startCharOffset": 1095,
+      "endCharOffset": 1105
+    },
+    {
+      "form": "conditions",
+      "startCharOffset": 1106,
+      "endCharOffset": 1116
+    },
+    {
+      "form": "sheep",
+      "startCharOffset": 1117,
+      "endCharOffset": 1122
+    },
+    {
+      "form": "could",
+      "startCharOffset": 1123,
+      "endCharOffset": 1128
+    },
+    {
+      "form": "contract",
+      "startCharOffset": 1129,
+      "endCharOffset": 1137
+    },
+    {
+      "form": "Bovine",
+      "startCharOffset": 1138,
+      "endCharOffset": 1144
+    },
+    {
+      "form": "Spongiform",
+      "startCharOffset": 1145,
+      "endCharOffset": 1155
+    },
+    {
+      "form": "Encephalopathy",
+      "startCharOffset": 1156,
+      "endCharOffset": 1170
+    },
+    {
+      "form": "(",
+      "startCharOffset": 1171,
+      "endCharOffset": 1172
+    },
+    {
+      "form": "BSE",
+      "startCharOffset": 1173,
+      "endCharOffset": 1176
+    },
+    {
+      "form": ")",
+      "startCharOffset": 1177,
+      "endCharOffset": 1178
+    },
+    {
+      "form": "--",
+      "startCharOffset": 1179,
+      "endCharOffset": 1181
+    },
+    {
+      "form": "mad",
+      "startCharOffset": 1182,
+      "endCharOffset": 1185
+    },
+    {
+      "form": "cow",
+      "startCharOffset": 1186,
+      "endCharOffset": 1189
+    },
+    {
+      "form": "disease",
+      "startCharOffset": 1190,
+      "endCharOffset": 1197
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1198,
+      "endCharOffset": 1199
+    },
+    {
+      "form": "But",
+      "startCharOffset": 1200,
+      "endCharOffset": 1203
+    },
+    {
+      "form": "Fischler",
+      "startCharOffset": 1204,
+      "endCharOffset": 1212
+    },
+    {
+      "form": "agreed",
+      "startCharOffset": 1213,
+      "endCharOffset": 1219
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1220,
+      "endCharOffset": 1222
+    },
+    {
+      "form": "review",
+      "startCharOffset": 1223,
+      "endCharOffset": 1229
+    },
+    {
+      "form": "his",
+      "startCharOffset": 1230,
+      "endCharOffset": 1233
+    },
+    {
+      "form": "proposal",
+      "startCharOffset": 1234,
+      "endCharOffset": 1242
+    },
+    {
+      "form": "after",
+      "startCharOffset": 1243,
+      "endCharOffset": 1248
+    },
+    {
+      "form": "the",
+      "startCharOffset": 1249,
+      "endCharOffset": 1252
+    },
+    {
+      "form": "EU",
+      "startCharOffset": 1253,
+      "endCharOffset": 1255
+    },
+    {
+      "form": "\u0027s",
+      "startCharOffset": 1256,
+      "endCharOffset": 1258
+    },
+    {
+      "form": "standing",
+      "startCharOffset": 1259,
+      "endCharOffset": 1267
+    },
+    {
+      "form": "veterinary",
+      "startCharOffset": 1268,
+      "endCharOffset": 1278
+    },
+    {
+      "form": "committee",
+      "startCharOffset": 1279,
+      "endCharOffset": 1288
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1289,
+      "endCharOffset": 1290
+    },
+    {
+      "form": "mational",
+      "startCharOffset": 1291,
+      "endCharOffset": 1299
+    },
+    {
+      "form": "animal",
+      "startCharOffset": 1300,
+      "endCharOffset": 1306
+    },
+    {
+      "form": "health",
+      "startCharOffset": 1307,
+      "endCharOffset": 1313
+    },
+    {
+      "form": "officials",
+      "startCharOffset": 1314,
+      "endCharOffset": 1323
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1324,
+      "endCharOffset": 1325
+    },
+    {
+      "form": "questioned",
+      "startCharOffset": 1326,
+      "endCharOffset": 1336
+    },
+    {
+      "form": "if",
+      "startCharOffset": 1337,
+      "endCharOffset": 1339
+    },
+    {
+      "form": "such",
+      "startCharOffset": 1340,
+      "endCharOffset": 1344
+    },
+    {
+      "form": "action",
+      "startCharOffset": 1345,
+      "endCharOffset": 1351
+    },
+    {
+      "form": "was",
+      "startCharOffset": 1352,
+      "endCharOffset": 1355
+    },
+    {
+      "form": "justified",
+      "startCharOffset": 1356,
+      "endCharOffset": 1365
+    },
+    {
+      "form": "as",
+      "startCharOffset": 1366,
+      "endCharOffset": 1368
+    },
+    {
+      "form": "there",
+      "startCharOffset": 1369,
+      "endCharOffset": 1374
+    },
+    {
+      "form": "was",
+      "startCharOffset": 1375,
+      "endCharOffset": 1378
+    },
+    {
+      "form": "only",
+      "startCharOffset": 1379,
+      "endCharOffset": 1383
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1384,
+      "endCharOffset": 1385
+    },
+    {
+      "form": "slight",
+      "startCharOffset": 1386,
+      "endCharOffset": 1392
+    },
+    {
+      "form": "risk",
+      "startCharOffset": 1393,
+      "endCharOffset": 1397
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1398,
+      "endCharOffset": 1400
+    },
+    {
+      "form": "human",
+      "startCharOffset": 1401,
+      "endCharOffset": 1406
+    },
+    {
+      "form": "health",
+      "startCharOffset": 1407,
+      "endCharOffset": 1413
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1414,
+      "endCharOffset": 1415
+    },
+    {
+      "form": "Spanish",
+      "startCharOffset": 1416,
+      "endCharOffset": 1423
+    },
+    {
+      "form": "Farm",
+      "startCharOffset": 1424,
+      "endCharOffset": 1428
+    },
+    {
+      "form": "Minister",
+      "startCharOffset": 1429,
+      "endCharOffset": 1437
+    },
+    {
+      "form": "Loyola",
+      "startCharOffset": 1438,
+      "endCharOffset": 1444
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1445,
+      "endCharOffset": 1447
+    },
+    {
+      "form": "Palacio",
+      "startCharOffset": 1448,
+      "endCharOffset": 1455
+    },
+    {
+      "form": "had",
+      "startCharOffset": 1456,
+      "endCharOffset": 1459
+    },
+    {
+      "form": "earlier",
+      "startCharOffset": 1460,
+      "endCharOffset": 1467
+    },
+    {
+      "form": "accused",
+      "startCharOffset": 1468,
+      "endCharOffset": 1475
+    },
+    {
+      "form": "Fischler",
+      "startCharOffset": 1476,
+      "endCharOffset": 1484
+    },
+    {
+      "form": "at",
+      "startCharOffset": 1485,
+      "endCharOffset": 1487
+    },
+    {
+      "form": "an",
+      "startCharOffset": 1488,
+      "endCharOffset": 1490
+    },
+    {
+      "form": "EU",
+      "startCharOffset": 1491,
+      "endCharOffset": 1493
+    },
+    {
+      "form": "farm",
+      "startCharOffset": 1494,
+      "endCharOffset": 1498
+    },
+    {
+      "form": "ministers",
+      "startCharOffset": 1499,
+      "endCharOffset": 1508
+    },
+    {
+      "form": "\u0027",
+      "startCharOffset": 1509,
+      "endCharOffset": 1510
+    },
+    {
+      "form": "meeting",
+      "startCharOffset": 1511,
+      "endCharOffset": 1518
+    },
+    {
+      "form": "of",
+      "startCharOffset": 1519,
+      "endCharOffset": 1521
+    },
+    {
+      "form": "causing",
+      "startCharOffset": 1522,
+      "endCharOffset": 1529
+    },
+    {
+      "form": "unjustified",
+      "startCharOffset": 1530,
+      "endCharOffset": 1541
+    },
+    {
+      "form": "alarm",
+      "startCharOffset": 1542,
+      "endCharOffset": 1547
+    },
+    {
+      "form": "through",
+      "startCharOffset": 1548,
+      "endCharOffset": 1555
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 1556,
+      "endCharOffset": 1557
+    },
+    {
+      "form": "dangerous",
+      "startCharOffset": 1558,
+      "endCharOffset": 1567
+    },
+    {
+      "form": "generalisation",
+      "startCharOffset": 1568,
+      "endCharOffset": 1582
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1583,
+      "endCharOffset": 1584
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 1585,
+      "endCharOffset": 1586
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1587,
+      "endCharOffset": 1588
+    },
+    {
+      "form": "Only",
+      "startCharOffset": 1589,
+      "endCharOffset": 1593
+    },
+    {
+      "form": "France",
+      "startCharOffset": 1594,
+      "endCharOffset": 1600
+    },
+    {
+      "form": "and",
+      "startCharOffset": 1601,
+      "endCharOffset": 1604
+    },
+    {
+      "form": "Britain",
+      "startCharOffset": 1605,
+      "endCharOffset": 1612
+    },
+    {
+      "form": "backed",
+      "startCharOffset": 1613,
+      "endCharOffset": 1619
+    },
+    {
+      "form": "Fischler",
+      "startCharOffset": 1620,
+      "endCharOffset": 1628
+    },
+    {
+      "form": "\u0027s",
+      "startCharOffset": 1629,
+      "endCharOffset": 1631
+    },
+    {
+      "form": "proposal",
+      "startCharOffset": 1632,
+      "endCharOffset": 1640
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1641,
+      "endCharOffset": 1642
+    },
+    {
+      "form": "The",
+      "startCharOffset": 1643,
+      "endCharOffset": 1646
+    },
+    {
+      "form": "EU",
+      "startCharOffset": 1647,
+      "endCharOffset": 1649
+    },
+    {
+      "form": "\u0027s",
+      "startCharOffset": 1650,
+      "endCharOffset": 1652
+    },
+    {
+      "form": "scientific",
+      "startCharOffset": 1653,
+      "endCharOffset": 1663
+    },
+    {
+      "form": "veterinary",
+      "startCharOffset": 1664,
+      "endCharOffset": 1674
+    },
+    {
+      "form": "and",
+      "startCharOffset": 1675,
+      "endCharOffset": 1678
+    },
+    {
+      "form": "multidisciplinary",
+      "startCharOffset": 1679,
+      "endCharOffset": 1696
+    },
+    {
+      "form": "committees",
+      "startCharOffset": 1697,
+      "endCharOffset": 1707
+    },
+    {
+      "form": "are",
+      "startCharOffset": 1708,
+      "endCharOffset": 1711
+    },
+    {
+      "form": "due",
+      "startCharOffset": 1712,
+      "endCharOffset": 1715
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1716,
+      "endCharOffset": 1718
+    },
+    {
+      "form": "re-examine",
+      "startCharOffset": 1719,
+      "endCharOffset": 1729
+    },
+    {
+      "form": "the",
+      "startCharOffset": 1730,
+      "endCharOffset": 1733
+    },
+    {
+      "form": "issue",
+      "startCharOffset": 1734,
+      "endCharOffset": 1739
+    },
+    {
+      "form": "early",
+      "startCharOffset": 1740,
+      "endCharOffset": 1745
+    },
+    {
+      "form": "next",
+      "startCharOffset": 1746,
+      "endCharOffset": 1750
+    },
+    {
+      "form": "month",
+      "startCharOffset": 1751,
+      "endCharOffset": 1756
+    },
+    {
+      "form": "and",
+      "startCharOffset": 1757,
+      "endCharOffset": 1760
+    },
+    {
+      "form": "make",
+      "startCharOffset": 1761,
+      "endCharOffset": 1765
+    },
+    {
+      "form": "recommendations",
+      "startCharOffset": 1766,
+      "endCharOffset": 1781
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1782,
+      "endCharOffset": 1784
+    },
+    {
+      "form": "the",
+      "startCharOffset": 1785,
+      "endCharOffset": 1788
+    },
+    {
+      "form": "senior",
+      "startCharOffset": 1789,
+      "endCharOffset": 1795
+    },
+    {
+      "form": "veterinary",
+      "startCharOffset": 1796,
+      "endCharOffset": 1806
+    },
+    {
+      "form": "officials",
+      "startCharOffset": 1807,
+      "endCharOffset": 1816
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1817,
+      "endCharOffset": 1818
+    },
+    {
+      "form": "Sheep",
+      "startCharOffset": 1819,
+      "endCharOffset": 1824
+    },
+    {
+      "form": "have",
+      "startCharOffset": 1825,
+      "endCharOffset": 1829
+    },
+    {
+      "form": "long",
+      "startCharOffset": 1830,
+      "endCharOffset": 1834
+    },
+    {
+      "form": "been",
+      "startCharOffset": 1835,
+      "endCharOffset": 1839
+    },
+    {
+      "form": "known",
+      "startCharOffset": 1840,
+      "endCharOffset": 1845
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1846,
+      "endCharOffset": 1848
+    },
+    {
+      "form": "contract",
+      "startCharOffset": 1849,
+      "endCharOffset": 1857
+    },
+    {
+      "form": "scrapie",
+      "startCharOffset": 1858,
+      "endCharOffset": 1865
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1866,
+      "endCharOffset": 1867
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1868,
+      "endCharOffset": 1869
+    },
+    {
+      "form": "brain-wasting",
+      "startCharOffset": 1870,
+      "endCharOffset": 1883
+    },
+    {
+      "form": "disease",
+      "startCharOffset": 1884,
+      "endCharOffset": 1891
+    },
+    {
+      "form": "similar",
+      "startCharOffset": 1892,
+      "endCharOffset": 1899
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1900,
+      "endCharOffset": 1902
+    },
+    {
+      "form": "BSE",
+      "startCharOffset": 1903,
+      "endCharOffset": 1906
+    },
+    {
+      "form": "which",
+      "startCharOffset": 1907,
+      "endCharOffset": 1912
+    },
+    {
+      "form": "is",
+      "startCharOffset": 1913,
+      "endCharOffset": 1915
+    },
+    {
+      "form": "believed",
+      "startCharOffset": 1916,
+      "endCharOffset": 1924
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1925,
+      "endCharOffset": 1927
+    },
+    {
+      "form": "have",
+      "startCharOffset": 1928,
+      "endCharOffset": 1932
+    },
+    {
+      "form": "been",
+      "startCharOffset": 1933,
+      "endCharOffset": 1937
+    },
+    {
+      "form": "transferred",
+      "startCharOffset": 1938,
+      "endCharOffset": 1949
+    },
+    {
+      "form": "to",
+      "startCharOffset": 1950,
+      "endCharOffset": 1952
+    },
+    {
+      "form": "cattle",
+      "startCharOffset": 1953,
+      "endCharOffset": 1959
+    },
+    {
+      "form": "through",
+      "startCharOffset": 1960,
+      "endCharOffset": 1967
+    },
+    {
+      "form": "feed",
+      "startCharOffset": 1968,
+      "endCharOffset": 1972
+    },
+    {
+      "form": "containing",
+      "startCharOffset": 1973,
+      "endCharOffset": 1983
+    },
+    {
+      "form": "animal",
+      "startCharOffset": 1984,
+      "endCharOffset": 1990
+    },
+    {
+      "form": "waste",
+      "startCharOffset": 1991,
+      "endCharOffset": 1996
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1997,
+      "endCharOffset": 1998
+    },
+    {
+      "form": "British",
+      "startCharOffset": 1999,
+      "endCharOffset": 2006
+    },
+    {
+      "form": "farmers",
+      "startCharOffset": 2007,
+      "endCharOffset": 2014
+    },
+    {
+      "form": "denied",
+      "startCharOffset": 2015,
+      "endCharOffset": 2021
+    },
+    {
+      "form": "on",
+      "startCharOffset": 2022,
+      "endCharOffset": 2024
+    },
+    {
+      "form": "Thursday",
+      "startCharOffset": 2025,
+      "endCharOffset": 2033
+    },
+    {
+      "form": "there",
+      "startCharOffset": 2034,
+      "endCharOffset": 2039
+    },
+    {
+      "form": "was",
+      "startCharOffset": 2040,
+      "endCharOffset": 2043
+    },
+    {
+      "form": "any",
+      "startCharOffset": 2044,
+      "endCharOffset": 2047
+    },
+    {
+      "form": "danger",
+      "startCharOffset": 2048,
+      "endCharOffset": 2054
+    },
+    {
+      "form": "to",
+      "startCharOffset": 2055,
+      "endCharOffset": 2057
+    },
+    {
+      "form": "human",
+      "startCharOffset": 2058,
+      "endCharOffset": 2063
+    },
+    {
+      "form": "health",
+      "startCharOffset": 2064,
+      "endCharOffset": 2070
+    },
+    {
+      "form": "from",
+      "startCharOffset": 2071,
+      "endCharOffset": 2075
+    },
+    {
+      "form": "their",
+      "startCharOffset": 2076,
+      "endCharOffset": 2081
+    },
+    {
+      "form": "sheep",
+      "startCharOffset": 2082,
+      "endCharOffset": 2087
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2088,
+      "endCharOffset": 2089
+    },
+    {
+      "form": "but",
+      "startCharOffset": 2090,
+      "endCharOffset": 2093
+    },
+    {
+      "form": "expressed",
+      "startCharOffset": 2094,
+      "endCharOffset": 2103
+    },
+    {
+      "form": "concern",
+      "startCharOffset": 2104,
+      "endCharOffset": 2111
+    },
+    {
+      "form": "that",
+      "startCharOffset": 2112,
+      "endCharOffset": 2116
+    },
+    {
+      "form": "German",
+      "startCharOffset": 2117,
+      "endCharOffset": 2123
+    },
+    {
+      "form": "government",
+      "startCharOffset": 2124,
+      "endCharOffset": 2134
+    },
+    {
+      "form": "advice",
+      "startCharOffset": 2135,
+      "endCharOffset": 2141
+    },
+    {
+      "form": "to",
+      "startCharOffset": 2142,
+      "endCharOffset": 2144
+    },
+    {
+      "form": "consumers",
+      "startCharOffset": 2145,
+      "endCharOffset": 2154
+    },
+    {
+      "form": "to",
+      "startCharOffset": 2155,
+      "endCharOffset": 2157
+    },
+    {
+      "form": "avoid",
+      "startCharOffset": 2158,
+      "endCharOffset": 2163
+    },
+    {
+      "form": "British",
+      "startCharOffset": 2164,
+      "endCharOffset": 2171
+    },
+    {
+      "form": "lamb",
+      "startCharOffset": 2172,
+      "endCharOffset": 2176
+    },
+    {
+      "form": "might",
+      "startCharOffset": 2177,
+      "endCharOffset": 2182
+    },
+    {
+      "form": "influence",
+      "startCharOffset": 2183,
+      "endCharOffset": 2192
+    },
+    {
+      "form": "consumers",
+      "startCharOffset": 2193,
+      "endCharOffset": 2202
+    },
+    {
+      "form": "across",
+      "startCharOffset": 2203,
+      "endCharOffset": 2209
+    },
+    {
+      "form": "Europe",
+      "startCharOffset": 2210,
+      "endCharOffset": 2216
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2217,
+      "endCharOffset": 2218
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 2219,
+      "endCharOffset": 2220
+    },
+    {
+      "form": "What",
+      "startCharOffset": 2221,
+      "endCharOffset": 2225
+    },
+    {
+      "form": "we",
+      "startCharOffset": 2226,
+      "endCharOffset": 2228
+    },
+    {
+      "form": "have",
+      "startCharOffset": 2229,
+      "endCharOffset": 2233
+    },
+    {
+      "form": "to",
+      "startCharOffset": 2234,
+      "endCharOffset": 2236
+    },
+    {
+      "form": "be",
+      "startCharOffset": 2237,
+      "endCharOffset": 2239
+    },
+    {
+      "form": "extremely",
+      "startCharOffset": 2240,
+      "endCharOffset": 2249
+    },
+    {
+      "form": "careful",
+      "startCharOffset": 2250,
+      "endCharOffset": 2257
+    },
+    {
+      "form": "of",
+      "startCharOffset": 2258,
+      "endCharOffset": 2260
+    },
+    {
+      "form": "is",
+      "startCharOffset": 2261,
+      "endCharOffset": 2263
+    },
+    {
+      "form": "how",
+      "startCharOffset": 2264,
+      "endCharOffset": 2267
+    },
+    {
+      "form": "other",
+      "startCharOffset": 2268,
+      "endCharOffset": 2273
+    },
+    {
+      "form": "countries",
+      "startCharOffset": 2274,
+      "endCharOffset": 2283
+    },
+    {
+      "form": "are",
+      "startCharOffset": 2284,
+      "endCharOffset": 2287
+    },
+    {
+      "form": "going",
+      "startCharOffset": 2288,
+      "endCharOffset": 2293
+    },
+    {
+      "form": "to",
+      "startCharOffset": 2294,
+      "endCharOffset": 2296
+    },
+    {
+      "form": "take",
+      "startCharOffset": 2297,
+      "endCharOffset": 2301
+    },
+    {
+      "form": "Germany",
+      "startCharOffset": 2302,
+      "endCharOffset": 2309
+    },
+    {
+      "form": "\u0027s",
+      "startCharOffset": 2310,
+      "endCharOffset": 2312
+    },
+    {
+      "form": "lead",
+      "startCharOffset": 2313,
+      "endCharOffset": 2317
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2318,
+      "endCharOffset": 2319
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 2320,
+      "endCharOffset": 2321
+    },
+    {
+      "form": "Welsh",
+      "startCharOffset": 2322,
+      "endCharOffset": 2327
+    },
+    {
+      "form": "National",
+      "startCharOffset": 2328,
+      "endCharOffset": 2336
+    },
+    {
+      "form": "Farmers",
+      "startCharOffset": 2337,
+      "endCharOffset": 2344
+    },
+    {
+      "form": "\u0027",
+      "startCharOffset": 2345,
+      "endCharOffset": 2346
+    },
+    {
+      "form": "Union",
+      "startCharOffset": 2347,
+      "endCharOffset": 2352
+    },
+    {
+      "form": "(",
+      "startCharOffset": 2353,
+      "endCharOffset": 2354
+    },
+    {
+      "form": "NFU",
+      "startCharOffset": 2355,
+      "endCharOffset": 2358
+    },
+    {
+      "form": ")",
+      "startCharOffset": 2359,
+      "endCharOffset": 2360
+    },
+    {
+      "form": "chairman",
+      "startCharOffset": 2361,
+      "endCharOffset": 2369
+    },
+    {
+      "form": "John",
+      "startCharOffset": 2370,
+      "endCharOffset": 2374
+    },
+    {
+      "form": "Lloyd",
+      "startCharOffset": 2375,
+      "endCharOffset": 2380
+    },
+    {
+      "form": "Jones",
+      "startCharOffset": 2381,
+      "endCharOffset": 2386
+    },
+    {
+      "form": "said",
+      "startCharOffset": 2387,
+      "endCharOffset": 2391
+    },
+    {
+      "form": "on",
+      "startCharOffset": 2392,
+      "endCharOffset": 2394
+    },
+    {
+      "form": "BBC",
+      "startCharOffset": 2395,
+      "endCharOffset": 2398
+    },
+    {
+      "form": "radio",
+      "startCharOffset": 2399,
+      "endCharOffset": 2404
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2405,
+      "endCharOffset": 2406
+    },
+    {
+      "form": "Bonn",
+      "startCharOffset": 2407,
+      "endCharOffset": 2411
+    },
+    {
+      "form": "has",
+      "startCharOffset": 2412,
+      "endCharOffset": 2415
+    },
+    {
+      "form": "led",
+      "startCharOffset": 2416,
+      "endCharOffset": 2419
+    },
+    {
+      "form": "efforts",
+      "startCharOffset": 2420,
+      "endCharOffset": 2427
+    },
+    {
+      "form": "to",
+      "startCharOffset": 2428,
+      "endCharOffset": 2430
+    },
+    {
+      "form": "protect",
+      "startCharOffset": 2431,
+      "endCharOffset": 2438
+    },
+    {
+      "form": "public",
+      "startCharOffset": 2439,
+      "endCharOffset": 2445
+    },
+    {
+      "form": "health",
+      "startCharOffset": 2446,
+      "endCharOffset": 2452
+    },
+    {
+      "form": "after",
+      "startCharOffset": 2453,
+      "endCharOffset": 2458
+    },
+    {
+      "form": "consumer",
+      "startCharOffset": 2459,
+      "endCharOffset": 2467
+    },
+    {
+      "form": "confidence",
+      "startCharOffset": 2468,
+      "endCharOffset": 2478
+    },
+    {
+      "form": "collapsed",
+      "startCharOffset": 2479,
+      "endCharOffset": 2488
+    },
+    {
+      "form": "in",
+      "startCharOffset": 2489,
+      "endCharOffset": 2491
+    },
+    {
+      "form": "March",
+      "startCharOffset": 2492,
+      "endCharOffset": 2497
+    },
+    {
+      "form": "after",
+      "startCharOffset": 2498,
+      "endCharOffset": 2503
+    },
+    {
+      "form": "a",
+      "startCharOffset": 2504,
+      "endCharOffset": 2505
+    },
+    {
+      "form": "British",
+      "startCharOffset": 2506,
+      "endCharOffset": 2513
+    },
+    {
+      "form": "report",
+      "startCharOffset": 2514,
+      "endCharOffset": 2520
+    },
+    {
+      "form": "suggested",
+      "startCharOffset": 2521,
+      "endCharOffset": 2530
+    },
+    {
+      "form": "humans",
+      "startCharOffset": 2531,
+      "endCharOffset": 2537
+    },
+    {
+      "form": "could",
+      "startCharOffset": 2538,
+      "endCharOffset": 2543
+    },
+    {
+      "form": "contract",
+      "startCharOffset": 2544,
+      "endCharOffset": 2552
+    },
+    {
+      "form": "an",
+      "startCharOffset": 2553,
+      "endCharOffset": 2555
+    },
+    {
+      "form": "illness",
+      "startCharOffset": 2556,
+      "endCharOffset": 2563
+    },
+    {
+      "form": "similar",
+      "startCharOffset": 2564,
+      "endCharOffset": 2571
+    },
+    {
+      "form": "to",
+      "startCharOffset": 2572,
+      "endCharOffset": 2574
+    },
+    {
+      "form": "mad",
+      "startCharOffset": 2575,
+      "endCharOffset": 2578
+    },
+    {
+      "form": "cow",
+      "startCharOffset": 2579,
+      "endCharOffset": 2582
+    },
+    {
+      "form": "disease",
+      "startCharOffset": 2583,
+      "endCharOffset": 2590
+    },
+    {
+      "form": "by",
+      "startCharOffset": 2591,
+      "endCharOffset": 2593
+    },
+    {
+      "form": "eating",
+      "startCharOffset": 2594,
+      "endCharOffset": 2600
+    },
+    {
+      "form": "contaminated",
+      "startCharOffset": 2601,
+      "endCharOffset": 2613
+    },
+    {
+      "form": "beef",
+      "startCharOffset": 2614,
+      "endCharOffset": 2618
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2619,
+      "endCharOffset": 2620
+    },
+    {
+      "form": "Germany",
+      "startCharOffset": 2621,
+      "endCharOffset": 2628
+    },
+    {
+      "form": "imported",
+      "startCharOffset": 2629,
+      "endCharOffset": 2637
+    },
+    {
+      "form": "47,600",
+      "startCharOffset": 2638,
+      "endCharOffset": 2644
+    },
+    {
+      "form": "sheep",
+      "startCharOffset": 2645,
+      "endCharOffset": 2650
+    },
+    {
+      "form": "from",
+      "startCharOffset": 2651,
+      "endCharOffset": 2655
+    },
+    {
+      "form": "Britain",
+      "startCharOffset": 2656,
+      "endCharOffset": 2663
+    },
+    {
+      "form": "last",
+      "startCharOffset": 2664,
+      "endCharOffset": 2668
+    },
+    {
+      "form": "year",
+      "startCharOffset": 2669,
+      "endCharOffset": 2673
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2674,
+      "endCharOffset": 2675
+    },
+    {
+      "form": "nearly",
+      "startCharOffset": 2676,
+      "endCharOffset": 2682
+    },
+    {
+      "form": "half",
+      "startCharOffset": 2683,
+      "endCharOffset": 2687
+    },
+    {
+      "form": "of",
+      "startCharOffset": 2688,
+      "endCharOffset": 2690
+    },
+    {
+      "form": "total",
+      "startCharOffset": 2691,
+      "endCharOffset": 2696
+    },
+    {
+      "form": "imports",
+      "startCharOffset": 2697,
+      "endCharOffset": 2704
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2705,
+      "endCharOffset": 2706
+    },
+    {
+      "form": "It",
+      "startCharOffset": 2707,
+      "endCharOffset": 2709
+    },
+    {
+      "form": "brought",
+      "startCharOffset": 2710,
+      "endCharOffset": 2717
+    },
+    {
+      "form": "in",
+      "startCharOffset": 2718,
+      "endCharOffset": 2720
+    },
+    {
+      "form": "4,275",
+      "startCharOffset": 2721,
+      "endCharOffset": 2726
+    },
+    {
+      "form": "tonnes",
+      "startCharOffset": 2727,
+      "endCharOffset": 2733
+    },
+    {
+      "form": "of",
+      "startCharOffset": 2734,
+      "endCharOffset": 2736
+    },
+    {
+      "form": "British",
+      "startCharOffset": 2737,
+      "endCharOffset": 2744
+    },
+    {
+      "form": "mutton",
+      "startCharOffset": 2745,
+      "endCharOffset": 2751
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2752,
+      "endCharOffset": 2753
+    },
+    {
+      "form": "some",
+      "startCharOffset": 2754,
+      "endCharOffset": 2758
+    },
+    {
+      "form": "10",
+      "startCharOffset": 2759,
+      "endCharOffset": 2761
+    },
+    {
+      "form": "percent",
+      "startCharOffset": 2762,
+      "endCharOffset": 2769
+    },
+    {
+      "form": "of",
+      "startCharOffset": 2770,
+      "endCharOffset": 2772
+    },
+    {
+      "form": "overall",
+      "startCharOffset": 2773,
+      "endCharOffset": 2780
+    },
+    {
+      "form": "imports",
+      "startCharOffset": 2781,
+      "endCharOffset": 2788
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2789,
+      "endCharOffset": 2790
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      9,
+      11,
+      13,
+      43,
+      74,
+      107,
+      132,
+      172,
+      200,
+      237,
+      264,
+      265,
+      274,
+      300,
+      330,
+      365,
+      404,
+      438,
+      453,
+      469
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.SpanLabelView",
+          "viewName": "NER_CONLL",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 9,
+              "end": 11
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 14,
+              "end": 16
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 48,
+              "end": 50
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 53,
+              "end": 55
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 98,
+              "end": 102
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 129,
+              "end": 131
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 142,
+              "end": 144
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 189,
+              "end": 192
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 240,
+              "end": 243
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 350,
+              "end": 351
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 357,
+              "end": 358
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 363,
+              "end": 364
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 382,
+              "end": 383
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 387,
+              "end": 392
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 393,
+              "end": 394
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 396,
+              "end": 399
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 401,
+              "end": 403
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 404,
+              "end": 405
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 420,
+              "end": 421
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 438,
+              "end": 439
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 443,
+              "end": 444
+            },
+            {
+              "label": "MISC",
+              "score": 1.0,
+              "start": 459,
+              "end": 460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 210,
+              "end": 211
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 211,
+              "end": 212
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 212,
+              "end": 213
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 213,
+              "end": 214
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 215,
+              "end": 216
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 217,
+              "end": 218
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 219,
+              "end": 220
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 220,
+              "end": 221
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 222,
+              "end": 223
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 225,
+              "end": 226
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 226,
+              "end": 227
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 227,
+              "end": 228
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 228,
+              "end": 229
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 229,
+              "end": 230
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 231,
+              "end": 232
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 232,
+              "end": 233
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 233,
+              "end": 234
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 234,
+              "end": 235
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 235,
+              "end": 236
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 236,
+              "end": 237
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 238,
+              "end": 239
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 239,
+              "end": 240
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 240,
+              "end": 241
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 241,
+              "end": 242
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 242,
+              "end": 243
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 243,
+              "end": 244
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 244,
+              "end": 245
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 245,
+              "end": 246
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 247,
+              "end": 248
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 248,
+              "end": 249
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 250,
+              "end": 251
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 251,
+              "end": 252
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 253,
+              "end": 254
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 255,
+              "end": 256
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 257,
+              "end": 258
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 258,
+              "end": 259
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 259,
+              "end": 260
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 260,
+              "end": 261
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 261,
+              "end": 262
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 262,
+              "end": 263
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 264,
+              "end": 265
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 265,
+              "end": 266
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 267,
+              "end": 268
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 269,
+              "end": 270
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 271,
+              "end": 272
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 272,
+              "end": 273
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 273,
+              "end": 274
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 277,
+              "end": 278
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 278,
+              "end": 279
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 279,
+              "end": 280
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 280,
+              "end": 281
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 281,
+              "end": 282
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 282,
+              "end": 283
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 283,
+              "end": 284
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 284,
+              "end": 285
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 285,
+              "end": 286
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 286,
+              "end": 287
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 287,
+              "end": 288
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 288,
+              "end": 289
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 290,
+              "end": 291
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 291,
+              "end": 292
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 292,
+              "end": 293
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 293,
+              "end": 294
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 295,
+              "end": 296
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 297,
+              "end": 298
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 299,
+              "end": 300
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 301,
+              "end": 302
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 303,
+              "end": 304
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 305,
+              "end": 306
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 307,
+              "end": 308
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 309,
+              "end": 310
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 311,
+              "end": 312
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 315,
+              "end": 316
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 317,
+              "end": 318
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 319,
+              "end": 320
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 321,
+              "end": 322
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 323,
+              "end": 324
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 325,
+              "end": 326
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 326,
+              "end": 327
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 327,
+              "end": 328
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 328,
+              "end": 329
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 329,
+              "end": 330
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 331,
+              "end": 332
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 332,
+              "end": 333
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 333,
+              "end": 334
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 334,
+              "end": 335
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 335,
+              "end": 336
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 336,
+              "end": 337
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 337,
+              "end": 338
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 338,
+              "end": 339
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 339,
+              "end": 340
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 340,
+              "end": 341
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 341,
+              "end": 342
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 342,
+              "end": 343
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 343,
+              "end": 344
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 344,
+              "end": 345
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 345,
+              "end": 346
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 346,
+              "end": 347
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 347,
+              "end": 348
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 348,
+              "end": 349
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 349,
+              "end": 350
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 350,
+              "end": 351
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 351,
+              "end": 352
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 352,
+              "end": 353
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 353,
+              "end": 354
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 354,
+              "end": 355
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 355,
+              "end": 356
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 356,
+              "end": 357
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 357,
+              "end": 358
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 358,
+              "end": 359
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 359,
+              "end": 360
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 360,
+              "end": 361
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 361,
+              "end": 362
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 362,
+              "end": 363
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 363,
+              "end": 364
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 364,
+              "end": 365
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 365,
+              "end": 366
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 366,
+              "end": 367
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 367,
+              "end": 368
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 368,
+              "end": 369
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 369,
+              "end": 370
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 370,
+              "end": 371
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 371,
+              "end": 372
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 372,
+              "end": 373
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 373,
+              "end": 374
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 374,
+              "end": 375
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 375,
+              "end": 376
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 376,
+              "end": 377
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 377,
+              "end": 378
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 378,
+              "end": 379
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 379,
+              "end": 380
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 380,
+              "end": 381
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 381,
+              "end": 382
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 382,
+              "end": 383
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 383,
+              "end": 384
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 384,
+              "end": 385
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 385,
+              "end": 386
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 386,
+              "end": 387
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 387,
+              "end": 388
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 388,
+              "end": 389
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 389,
+              "end": 390
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 390,
+              "end": 391
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 391,
+              "end": 392
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 392,
+              "end": 393
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 393,
+              "end": 394
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 394,
+              "end": 395
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 395,
+              "end": 396
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 396,
+              "end": 397
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 397,
+              "end": 398
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 398,
+              "end": 399
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 399,
+              "end": 400
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 400,
+              "end": 401
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 401,
+              "end": 402
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 402,
+              "end": 403
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 403,
+              "end": 404
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 404,
+              "end": 405
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 405,
+              "end": 406
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 406,
+              "end": 407
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 407,
+              "end": 408
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 408,
+              "end": 409
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 409,
+              "end": 410
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 410,
+              "end": 411
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 411,
+              "end": 412
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 412,
+              "end": 413
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 413,
+              "end": 414
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 414,
+              "end": 415
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 415,
+              "end": 416
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 416,
+              "end": 417
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 417,
+              "end": 418
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 418,
+              "end": 419
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 419,
+              "end": 420
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 420,
+              "end": 421
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 421,
+              "end": 422
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 422,
+              "end": 423
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 423,
+              "end": 424
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 424,
+              "end": 425
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 425,
+              "end": 426
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 426,
+              "end": 427
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 427,
+              "end": 428
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 428,
+              "end": 429
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 429,
+              "end": 430
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 430,
+              "end": 431
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 431,
+              "end": 432
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 432,
+              "end": 433
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 433,
+              "end": 434
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 434,
+              "end": 435
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 435,
+              "end": 436
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 436,
+              "end": 437
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 437,
+              "end": 438
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 438,
+              "end": 439
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 439,
+              "end": 440
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 440,
+              "end": 441
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 441,
+              "end": 442
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 442,
+              "end": 443
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 443,
+              "end": 444
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 444,
+              "end": 445
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 445,
+              "end": 446
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 446,
+              "end": 447
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 447,
+              "end": 448
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 448,
+              "end": 449
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 449,
+              "end": 450
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 450,
+              "end": 451
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 451,
+              "end": 452
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 452,
+              "end": 453
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 453,
+              "end": 454
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 454,
+              "end": 455
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 455,
+              "end": 456
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 456,
+              "end": 457
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 457,
+              "end": 458
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 458,
+              "end": 459
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 459,
+              "end": 460
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 460,
+              "end": 461
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 461,
+              "end": 462
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 462,
+              "end": 463
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 463,
+              "end": 464
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 464,
+              "end": 465
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 465,
+              "end": 466
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 466,
+              "end": 467
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 467,
+              "end": 468
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 468,
+              "end": 469
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

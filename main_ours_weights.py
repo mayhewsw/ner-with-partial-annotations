@@ -43,7 +43,7 @@ print("total toks: ", stats["total_toks"])
 print("total tags: ", stats["total_tags"])
 
 # don't put a slash after this.
-serialization_dir = "/scratch/mayhew/partial-ner-allan/{}/{}".format(lang, expname)
+serialization_dir = "/scratch/models/{}/{}".format(lang, expname)
 if os.path.exists(serialization_dir):
     print("serialization directory exists... ")
     if "deleteme" in serialization_dir:

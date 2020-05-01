@@ -63,7 +63,7 @@ print("total tags: ", stats["total_tags"])
 print("b value", get_b(train_dataset))
 
 # don't put a slash after this.
-serialization_dir = "/scratch/mayhew/partial-ner-allan/{}/{}".format(lang, expname)
+serialization_dir = "/scratch/models/{}/{}".format(lang, expname)
 if os.path.exists(serialization_dir):
     print("serialization directory exists... ")
     r = input("Serialization dir {} exists. Remove? y/n  ".format(serialization_dir))
