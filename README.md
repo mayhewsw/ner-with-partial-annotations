@@ -1,6 +1,12 @@
 # ner-with-partial-annotations
 Code for the CoNLL2019 paper on [NER with Partial Annotations](https://cogcomp.seas.upenn.edu/papers/MCTR19.pdf). See also the paper in the [ACL Anthology](https://www.aclweb.org/anthology/K19-1060/).
 
+NOTE: this code uses AllenNLP 0.8.4 and ccg_nlpy
+
+```bash
+$ pip install ccg_nlpy allennlp==0.8.4
+```
+
 If you use this code, please cite us!
 
 ```
