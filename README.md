@@ -22,7 +22,7 @@ $ pip install ccg_nlpy allennlp==0.8.4
 You can see some sample data in [`data/eng`](data/eng). These files have 
 TextAnnotation format, from [ccg_nlpy](https://github.com/CogComp/cogcomp-nlpy).
 
-You will need to set paths in [`utils.py`](mylib/utils.py) for the 
+You will need to set paths in [`util.py`](mylib/util.py) for the 
 embeddings, and the data.
 
 
